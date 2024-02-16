@@ -1,0 +1,77 @@
+{
+  "id": "e8d4756b-8f7e-48de-870d-fc957e5a272e",
+  "parentId": "3ce23ae3-2cfc-4ace-a4cc-9211acaa95db",
+  "rootParentId": "3ce23ae3-2cfc-4ace-a4cc-9211acaa95db",
+  "name": "_realWorldApplication_binarySearch",
+  "auto": true,
+  "contexts": [
+    "01_personalReflection_binarySearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "01_personalReflection_binarySearch.01_personalReflection_binarySearch-custom",
+      "affectedContexts": [
+        {
+          "name": "_realWorldApplication_binarySearch-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e4769691-9602-4772-8e87-000ed99491f0",
+          "name": "binarysearch",
+          "required": false,
+          "dataType": "@binarySearch",
+          "value": "$binarysearch",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "13f70642-e8ed-47bd-b520-d98a712fd64c",
+          "name": "linearsearch",
+          "required": false,
+          "dataType": "@linearSearch",
+          "value": "$linearsearch",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Binary search is an algorithm we use daily. Imagine that you\u0027re writing an essay but need to look up a word in a dictionary. Flipping open the dictionary about halfway would determine if you need to look in the front or back half of it. After cutting down pages by half several times, you\u0027d eventually find the page that you want. How is what you just described about finding a number in a sorted list the same or different compared to searching for a word in a dictionary in this way?",
+            "Binary search is similar to how we naturally navigate to a page in a textbook. It would be quick to flip open the book about halfway, check the page number, and see if you need to move forward or back in the book based on where you already are. You\u0027d repeat that cutting down process until you found the page you want. How does navigating to the page compare to what you just described about finding a number in a sorted list? Why is it the same or different?",
+            "Binary search is similar to scrolling for a song in a very large alphabetical music playlist on a streaming service. Swiping down and stopping your phone\u0027s scroll about halfway, you\u0027d check what letter of the playlist you\u0027re in, then decide if you need to move up or down the playlist from there. Why is finding the song in this way the same or different compared to what you just described about finding a number in a sorted list?",
+            "Binary search is similar to being at an arcade finding your name on the high scorers list. The machine displays a list of the top 100 player\u0027s high scores ordered alphabetically by the player\u0027s name. Your eyes naturally check about halfway and depending on your name, you know whether to check earlier in the scorer\u0027s list or later. You\u0027d continue this halfway cut down process until your name is found. How does finding your player\u0027s high score in this way differ from what you just described about finding a number in a sorted list? Why is it the same or different?",
+            "Binary search operates similarly to finding your flight on an airline\u0027s flight status board. Your eyes naturally scan the alphabetical destination cities about halfway and depending on where you\u0027re traveling, you know whether to check earlier or later on the board. You\u0027d continue this process to find your destination city instead of going through the status board city by city (one by one). How is this algorithm of finding a destination city the same or different from the one you just described about finding a number in a sorted list?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

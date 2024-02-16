@@ -1,0 +1,58 @@
+{
+  "id": "f627c174-fbc8-4823-8650-fb5b7c3de7a6",
+  "parentId": "7e8145c3-d2c9-4938-977b-8e863fceed65",
+  "rootParentId": "7e8145c3-d2c9-4938-977b-8e863fceed65",
+  "name": "es_cs_ex_linear",
+  "auto": true,
+  "contexts": [
+    "showmeanexample-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "showmeanexample.showmeanexample-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af618a9d-f60b-466a-a141-e630a987ea58",
+          "name": "linearsearchexample",
+          "required": false,
+          "dataType": "@linearSearchExample",
+          "value": "$linearsearchexample",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Here\u0027s an example of how linear search can be used to search for a specific number in an list:\n\nSuppose we have the following list of numbers: [7, 3, 9, 2, 4, 8, 6].\n\nLet\u0027s say we want to search for the number 4 in this list using linear search.\n\nThe linear search algorithm starts at the first element of the list and checks each element one by one until it finds the element it\u0027s looking for (in this case, the number 4) or until it reaches the end of the list.\n\nHere\u0027s how the algorithm works in this example:\n\n1. Start at the beginning of the list: The algorithm starts at the first element of the list, which is 7.\n\n2. Check each element of the list one by one: The algorithm checks the first element (7) and moves to the second element (3). It then checks the second element and moves to the third element (9), and so on, until it checks the fifth element (4).\n\n3. If you find the element you\u0027re searching for, stop the search and return the index of that element in the list: When the algorithm checks the fifth element (4), it finds the element it\u0027s looking for, so the search stops, and the index of the element (4) in the list is returned. In this case, the index of 4 in the list is 4.\n\n4. If you reach the end of the list without finding the element, stop the search and return a \"not found\" message: If the element being searched for is not found in the list, the algorithm will keep checking each element until it reaches the end of the list. If the element is not found in the list, the search stops, and a \"not found\" message is returned.\n\nIn this example, the linear search algorithm found the number 4 in the list and returned the index of the element (4) in the list, which is 4.\n\nWhich subject interests you next: polynomial time or see an example of binary search?",
+            "Sure! Here\u0027s another example of how linear search can be used to search for a specific name in a list:\n\nSuppose we have the following list of names: [\"Alice\", \"Bob\", \"Charlie\", \"David\", \"Eve\"].\n\nLet\u0027s say we want to search for the name \"Charlie\" in this list using linear search.\n\nThe linear search algorithm starts at the first element of the list and checks each element one by one until it finds the element it\u0027s looking for (in this case, the name \"Charlie\") or until it reaches the end of the list.\n\nHere\u0027s how the algorithm works in this example:\n\n1. Start at the beginning of the list: The algorithm starts at the first element of the list, which is \"Alice\".\n\n2. Check each element of the list one by one: The algorithm checks the first element (\"Alice\") and moves to the second element (\"Bob\"). It then checks the second element and moves to the third element (\"Charlie\"), and so on, until it checks the fifth element (\"Eve\").\n\n3. If you find the element you\u0027re searching for, stop the search and return the index of that element in the list: When the algorithm checks the third element (\"Charlie\"), it finds the element it\u0027s looking for, so the search stops, and the index of the element (\"Charlie\") in the list is returned. In this case, the index of \"Charlie\" in the list is 2.\n\n4. If you reach the end of the list without finding the element, stop the search and return a \"not found\" message: If the element being searched for is not found in the list, the algorithm will keep checking each element until it reaches the end of the list. If the element is not found in the list, the search stops, and a \"not found\" message is returned.\n\nIn this example, the linear search algorithm found the name \"Charlie\" in the list and returned the index of the element (\"Charlie\") in the list, which is 2.\n\nWhich topic interests you more: algorithm efficiency or when to use binary search?",
+            "Sure! Here\u0027s an example of linear search using a list of places:\n\nSuppose we have the following list of places: [\"Paris\", \"New York\", \"Tokyo\", \"London\", \"Rome\", \"Sydney\", \"Moscow\"]\n\nLet\u0027s say we want to search for the place \"Rome\" in this list using linear search.\n\nThe linear search algorithm starts at the first element of the list and checks each element one by one until it finds the element it\u0027s looking for (in this case, the place \"Rome\") or until it reaches the end of the list.\n\nHere\u0027s how the algorithm works in this example:\n\n1. Start at the beginning of the list: The algorithm starts at the first element of the list, which is \"Paris\".\n\n2. Check each element of the list one by one: The algorithm checks the first element (\"Paris\") and moves to the second element (\"New York\"). It then checks the second element and moves to the third element (\"Tokyo\"), and so on, until it checks the fifth element (\"Rome\").\n\n3. If you find the element you\u0027re searching for, stop the search and return the index of that element in the list: When the algorithm checks the fifth element (\"Rome\"), it finds the element it\u0027s looking for, so the search stops, and the index of the element (\"Rome\") in the list is returned. In this case, the index of \"Rome\" in the list is 4.\n\n4. If you reach the end of the list without finding the element, stop the search and return a \"not found\" message: If the element being searched for is not found in the list, the algorithm will keep checking each element until it reaches the end of the list. If the element is not found in the list, the search stops, and a \"not found\" message is returned.\n\nIn this example, the linear search algorithm found the place \"Rome\" in the list and returned the index of the element (\"Rome\") in the list, which is 4.\n\nWhich topic, when to use linear search or polynomial time, would you like to know more about next?",
+            "Sure! Here\u0027s an example of linear search using a list of integers:\n\nSuppose we have the following list of integers: [2, 5, 8, 10, 13, 16, 19, 20].\n\nLet\u0027s say we want to search for the number 13 in this list using linear search.\n\nThe linear search algorithm starts at the first element of the list and checks each element one by one until it finds the element it\u0027s looking for (in this case, the number 13) or until it reaches the end of the list.\n\nHere\u0027s how the algorithm works in this example:\n\n1. Start at the beginning of the list: The algorithm starts at the first element of the list, which is 2.\n\n2. Check each element of the list one by one: The algorithm checks the first element (2) and moves to the second element (5). It then checks the second element and moves to the third element (8), and so on, until it checks the fifth element (13).\n\n3. If you find the element you\u0027re searching for, stop the search and return the index of that element in the list: When the algorithm checks the fifth element (13), it finds the element it\u0027s looking for, so the search stops, and the index of the element (13) in the list is returned. In this case, the index of 13 in the list is 4.\n\n4. If you reach the end of the list without finding the element, stop the search and return a \"not found\" message: If the element being searched for is not found in the list, the algorithm will keep checking each element until it reaches the end of the list. If the element is not found in the list, the search stops, and a \"not found\" message is returned.\n\nIn this example, the linear search algorithm found the number 13 in the list and returned the index of the element (13) in the list, which is 4.\n\nWhich topic, when to use binary search or exponential time, would you like to know about next?",
+            "Sure! Here\u0027s an example of linear search using a list of words:\n\nSuppose we have the following list of words: [\"apple\", \"banana\", \"orange\", \"pear\", \"grape\", \"mango\", \"pineapple\"].\n\nLet\u0027s say we want to search for the word \"grape\" in this list using linear search.\n\nThe linear search algorithm starts at the first element of the list and checks each element one by one until it finds the element it\u0027s looking for (in this case, the word \"grape\") or until it reaches the end of the list.\n\nHere\u0027s how the algorithm works in this example:\n\n1. Start at the beginning of the list: The algorithm starts at the first element of the list, which is \"apple\".\n\n2. Check each element of the list one by one: The algorithm checks the first element (\"apple\") and moves to the second element (\"banana\"). It then checks the second element and moves to the third element (\"orange\"), and so on, until it checks the fifth element (\"grape\").\n\n3. If you find the element you\u0027re searching for, stop the search and return the index of that element in the list: When the algorithm checks the fifth element (\"grape\"), it finds the element it\u0027s looking for, so the search stops, and the index of the element (\"grape\") in the list is returned. In this case, the index of \"grape\" in the list is 4.\n\n4. If you reach the end of the list without finding the element, stop the search and return a \"not found\" message: If the element being searched for is not found in the list, the algorithm will keep checking each element until it reaches the end of the list. If the element is not found in the list, the search stops, and a \"not found\" message is returned.\n\nIn this example, the linear search algorithm found the word \"grape\" in the list and returned the index of the element (\"grape\") in the list, which is 4.\n\nWhich subject interests you more, the binary search process or algorithm efficiency?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "f435785f-5a6d-40a6-b60c-871871b28f64",
+  "name": "@moreDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure 🤓! I can help you learn about binary search, linear search, and algorithm efficiency. Which would you like to learn next about: the process, see an example, or when to use or not to use? \n\nLet me know if you\u0027d like to learn about a different topic like linear time or constant time.",
+            "Awesome! Which would you like to learn next about: the process, see an example, or when to use or not to use? \n\nIf you\u0027re tired of learning about binary search, linear search, or algorithm efficiency, which of these another topics interests you: exponential time or linear time? 📚",
+            "That\u0027s great! I can explain binary search, algorithm efficiency, or linear search. Did you learn about the process, see an example, or learn when to use or not use each algorithm? Any other subjects interests you next: unreasonable time or reasonable time?",
+            "I ❤️ that! Got enough details? What other topics interest you: polynomial time or exponential time? Or, you can ask me to provide you with an explanation of either algorithm efficiency, linear search, or binary search. I can give you some examples, as well as advice on when to use it and when you shouldn\u0027t. What information would you wish to learn about next?",
+            "Cool 😏! I can teach you about linear search, algorithm efficiency, or binary search. Which do you want to learn about next: the process, an illustration, or when to utilize it or not?\n\nIf you\u0027re interested in learning more about another subject, such as linear time or exponential time, let me know."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

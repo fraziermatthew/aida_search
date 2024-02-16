@@ -1,0 +1,107 @@
+[
+  {
+    "id": "58c39ba2-db12-48c3-a1fb-b2fcfa3b1616",
+    "data": [
+      {
+        "text": "example for linear search",
+        "meta": "@linearSearchExample",
+        "alias": "linearsearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ce7e3f9-c021-45e8-8eb6-fc2cf04f12a8",
+    "data": [
+      {
+        "text": "give me an example of linear search",
+        "meta": "@linearSearchExample",
+        "alias": "linearsearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92bce740-f6b7-49cd-886c-897155794337",
+    "data": [
+      {
+        "text": "i want an illustration of linear search",
+        "meta": "@linearSearchExample",
+        "alias": "linearsearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f0a39e0-b22e-49f4-84a2-a62766a793ce",
+    "data": [
+      {
+        "text": "show me an example of linear search",
+        "meta": "@linearSearchExample",
+        "alias": "linearsearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca1d6dee-56c2-4185-8906-8465f223ae33",
+    "data": [
+      {
+        "text": "I want to see an illustration of how linear search works",
+        "meta": "@linearSearchExample",
+        "alias": "linearsearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "721585c5-0f2a-41c2-a059-5c4f6c119c8b",
+    "data": [
+      {
+        "text": "linear search",
+        "meta": "@linearSearchExample",
+        "alias": "linearsearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f22ef357-aa1b-4b36-bffa-5d3ccea3122f",
+    "data": [
+      {
+        "text": "linear search example",
+        "meta": "@linearSearchExample",
+        "alias": "linearsearchexample",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

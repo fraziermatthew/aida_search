@@ -1,0 +1,9 @@
+{
+  "id": "75ca28eb-5d5e-49f8-8f94-c18adb6763c3",
+  "name": "process",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

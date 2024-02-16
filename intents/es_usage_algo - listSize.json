@@ -1,0 +1,79 @@
+{
+  "id": "fc0812c5-0bbf-4025-9354-62f84607409b",
+  "parentId": "55838f5a-2fb5-4527-9cfc-e79ee8c1c2f3",
+  "rootParentId": "4dd557ca-791c-429b-a874-997be05f81ee",
+  "name": "es_usage_algo - listSize",
+  "auto": true,
+  "contexts": [
+    "es_usage_algo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_usage.es_usage-custom.es_usage_algo-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "44e9f946-f86b-4164-96ad-3fd497d4048e",
+          "name": "listsize",
+          "required": true,
+          "dataType": "@listSize",
+          "value": "$listsize",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here\u0027s a tip 🤓... imagine using binary search to find a number in a list that contains 10 million items versus a list with only 10 items. How do you think that would effect the algorithm efficiency? Do small lists or large lists have an advantage using binary search?"
+            },
+            {
+              "lang": "en",
+              "value": "Want a clue 🕵️?  What if are searching a number in a list that contains 1 million items versus a list with only 10 items. How do you think that would effect the algorithm efficiency? Do large lists or small lists have an advantage using binary search?"
+            },
+            {
+              "lang": "en",
+              "value": "A clue for you 💁‍♀️: Bigger lists are effected differently with binary search vs. linear search. What would happen using binary search on a list of 10 million items vs linear search on the same list? How do you think that would effect the algorithm efficiency? Do large lists or small lists have an advantage using binary search?"
+            },
+            {
+              "lang": "en",
+              "value": "Here\u0027s something to ponder on... 🤔 imagine using linear search to find a list of 10 items. Now imagine that you need to search for an item in a list of 1 million items. Which algorithm would you prefer as being more efficient? Do large lists or small lists have an advantage using binary search?"
+            },
+            {
+              "lang": "en",
+              "value": "Need a hint 🤓? A particular \"size\" of list is advantageous for binary search. Using linear search, try finding a single number in the list that has 10 million items. Now imagine how much faster it would be if you could use binary search instead of linear search.\n\nHow do you think that would effect the algorithm efficiency? Do large lists or small lists have an advantage using binary search?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That\u0027s right! If the list is small, then there\u0027s no significant benefit to using binary search. Binary search\u0027s primary benefit is that it allows you to skip over half the list. Use binary search when you need to search for a specific element in a large, sorted data set, like searching for a product in an e-commerce website or finding a specific destination flight in an airline status board. \n\nWant to learn more details about binary search like seeing examples? Just ask. If not, which subject interests you next: polynomial time or linear search?",
+            "Binary search\u0027s key advantage is the divide and conquer principle. Rather than checking every element, binary search is more efficient because it, at most, only checks half of the list.  There isn\u0027t much efficiency to gain if the list isn\u0027t large. \n\nLet me know if you want to view examples about binary search, learn about the binary search process, or if one of these other topics interests you: binary search or linear search?",
+            "The fundamental benefit of utilizing binary search is that it doesn’t check every element in the list. If the list is already small to begin with, then there is no major advantage to using binary search over linear search. \n\nPlease let me know if you\u0027re interested in learning more about binary search, seeing examples of it in action, or learning about one of the following topics: algorithm efficiency or linear search.",
+            "Right on! The main advantage of using binary search is that it skips over some elements in the list. There is little benefit to use binary search over linear search if the list is already short to begin with. It will be efficient to search using either algorithm.\n\nWhich topic, reasonable time or polynomial time, would you like to know about next? Or do you want to learn about the process of binary search or see an example of it?",
+            "That\u0027s correct! The key benefit of using binary search is that it allows you to skip over some list items. If the list is already short to begin with, there is little advantage to using binary search over linear search. \n\nWhich subject interests you more, algorithm efficiency or polynomial time? Or do you want to view a binary search example or learn more about how it works?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

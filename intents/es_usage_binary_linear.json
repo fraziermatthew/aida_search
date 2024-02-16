@@ -1,0 +1,77 @@
+{
+  "id": "83f83840-1683-4a1b-86df-0ec31b362615",
+  "parentId": "4dd557ca-791c-429b-a874-997be05f81ee",
+  "rootParentId": "4dd557ca-791c-429b-a874-997be05f81ee",
+  "name": "es_usage_binary_linear",
+  "auto": true,
+  "contexts": [
+    "es_usage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_usage.es_usage-custom",
+      "affectedContexts": [
+        {
+          "name": "es_usage_binary_linear-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "233f12c5-4792-4dd1-b909-2ae9ec8e4e7f",
+          "name": "binarySearchUsage",
+          "required": false,
+          "dataType": "@binarySearchUsage",
+          "value": "$binarySearchUsage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "25d25d3a-c20f-4bb7-ac37-21136f888779",
+          "name": "linearSearchUsage",
+          "required": false,
+          "dataType": "@linearSearchUsage",
+          "value": "$linearSearchUsage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Two things affect whether you should use the binary search algorithm vs the linear search algorithm. Let\u0027s learn about both. For starters, what\u0027s one think might affect this?",
+            "Whether or not you should utilize a binary search algorithm vs a linear search depends on two factors. We\u0027ll talk about each of them. First off, what\u0027s one thing that you suppose could impact this?",
+            "There are two criteria that determine when to use a binary search algorithm vs a linear search algorithm. Let\u0027s discover each of them. To begin, guess one thing that you believe might impact this, in your opinion?",
+            "You should take into account two factors when deciding to use either a linear search algorithm vs a binary search algorithm. We\u0027ll discuss each factor. But first, take a guess. What\u0027s one factor that you think might have an effect on this?",
+            "There\u0027s two things when considering using linear search vs binary search. Let\u0027s go through each consideration. For the first one, what, in your opinion, might have an effect on this?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

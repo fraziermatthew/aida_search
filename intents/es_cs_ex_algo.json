@@ -1,0 +1,58 @@
+{
+  "id": "508141dd-943f-4353-9326-b197bf1b49b5",
+  "parentId": "7e8145c3-d2c9-4938-977b-8e863fceed65",
+  "rootParentId": "7e8145c3-d2c9-4938-977b-8e863fceed65",
+  "name": "es_cs_ex_algo",
+  "auto": true,
+  "contexts": [
+    "showmeanexample-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "showmeanexample.showmeanexample-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c4da895-685a-4447-8195-f7681ccbfedf",
+          "name": "algorithmEfficiencyExample",
+          "required": false,
+          "dataType": "@algorithmEfficiencyExample",
+          "value": "$algorithmEfficiencyExample",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! An example of algorithm efficiency is comparing two ways of finding the smallest number in a list. One way is to look at each number in the list and compare it to all the other numbers until you find the smallest one, while the other way is to keep track of the smallest number seen so far as you go through the list. The second method is more efficient because it only requires one pass through the list, whereas the first method may require multiple passes.\n\nWhat other subjects do you have questions about: polynomial time or linear search?",
+            "Sure! Let\u0027s say you have two different ways of sorting a stack of cards. One way is to look at each card and decide whether it should be put on top of or below another card, until the entire stack is sorted. This method is called selection sort. Another way is to divide the stack in half, sort each half separately, and then merge the two halves back together. This method is called merge sort.\n\nNow, let\u0027s imagine that you have a very large stack of cards, say 1000 cards, that you want to sort. If you were to use selection sort, it would take a very long time, because you would have to look at each card individually and compare it to all the other cards. On the other hand, if you were to use merge sort, it would be much faster, because you could divide the stack in half, sort each half, and then combine them back together.\n\nWhat else can I help you learn about: binary search or linear search?",
+            "Suppose you have a list of 100 numbers that you need to sort from smallest to largest. One way to do this is to look at each number and compare it to all the other numbers until you find the smallest one, then repeat the process for the remaining numbers. This is called selection sort. Another way is to divide the list into smaller groups, sort each group, and then combine them back together. This is called merge sort. Merge sort is more efficient because it can sort the list much faster by breaking it down into smaller parts, even though it may use more memory and processing power.\n\nWhich subject interests you more, polynomial time or linear search?",
+            "Let\u0027s say you have a large dataset of customer information, such as names, addresses, and purchase histories, and you need to find all the customers who have made a purchase within the last month. One way to do this is to go through the entire dataset and check each record to see if the purchase date is within the last month. Another way is to first sort the data by purchase date and then use a binary search to quickly find the records that fall within the last month. The second method is more efficient because it can find the relevant records much faster by using a sorted dataset and binary search, even though it may use more memory and processing power.\n\nLet\u0027s discuss another topic. Which topic would you like to learn about next? Linear search or Binary search?",
+            "Suppose you have a large set of data, such as test scores for every student in a school, and you need to find the average score. One way to do this is to add up all the scores and then divide by the number of students. Another way is to keep a running total of the scores as you go through the data, and then divide by the number of students at the end. The second method is more efficient because it only requires one pass through the data, whereas the first method may require multiple passes.\n\nWhich subject do you want to learn about next: polynomial time or algorithm efficiency?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

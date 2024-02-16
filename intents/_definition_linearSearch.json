@@ -1,0 +1,43 @@
+{
+  "id": "39ead354-fed0-42f8-b2a9-3e709b607284",
+  "parentId": "c83f3b7d-92e8-4fa0-b373-637ff9793e78",
+  "rootParentId": "f39b5fc2-6092-4c36-8f4e-154882858ce2",
+  "name": "_definition_linearSearch",
+  "auto": true,
+  "contexts": [
+    "_realWorldApplication_linearSearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "02_personalReflection_linearSearch.02_personalReflection_linearSearch-custom._realWorldApplication_linearSearch-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A linear search checks each element of a list, in order, until the desired value is found or all elements in the list have been checked. Would you like a different explanation?\n\nYou can ask me to provide you a definition of linear search, an illustration of how it works, advice on when to use it and when not to, as well as specifics on how it is used. Which topic are you most interested in learning more about?",
+            "A linear search algorithm checks each element of a list in order, a process which takes linear time. Would you like me to re-explain this?\n\nYou can ask me to provide you an explanation of linear search, an illustration, and suggestions on when you should and shouldn\u0027t use it. Which subject would you like to learn more about next?",
+            "Linear search starts at the beginning of the list and iterates through each element until it finds the target value or reaches the end of the list. If the target value is found, the algorithm returns its index in the list; otherwise, it returns a signal indicating that the value was not found. Would you like a more thorough explanation?\n\nYou can ask me to provide you an explanation of linear search, an example, advice on when to use it and when you shouldn\u0027t, as well as details on its uses. Which subject are you interested in studying?",
+            "Linear search is a method for finding an element in a list or an array by examining each element one by one from the beginning until the desired element is found, or until the end of the list or array is reached. Do you want me to explain this again?\n\nI can explain linear search to you, give you an example, tell you when to use it and when you shouldn\u0027t, and go over its applications. What linear search information would you like to learn next?",
+            "Linear search works by starting at the first element of the list, and sequentially checking each element in turn until the target element is found or the end of the list is reached. Would you like to further explain?\n\nI can assist you in understanding the linear search procedure, viewing an example, or determining when to utilize the linear search method or not. Which linear search concept would you like to study next?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

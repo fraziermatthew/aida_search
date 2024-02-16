@@ -1,0 +1,444 @@
+[
+  {
+    "id": "58a80981-2c48-4679-be28-dff39565f2cd",
+    "data": [
+      {
+        "text": "what do you mean by sorted number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "485592f4-f3e1-4015-898f-600813a957c9",
+    "data": [
+      {
+        "text": "by searching for it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a62e4061-9cd8-4953-92b5-55447fbbb4aa",
+    "data": [
+      {
+        "text": "look it up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2637da2-92fe-4701-adce-34f3e4b9e360",
+    "data": [
+      {
+        "text": "search for it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c2edcf6-a89f-410c-8450-3a702278791b",
+    "data": [
+      {
+        "text": "step through the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72618ba1-0b87-472d-98b4-2f733beaf86a",
+    "data": [
+      {
+        "text": "look for it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3350427a-939e-423b-afad-1af68d682fb3",
+    "data": [
+      {
+        "text": "search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a110db06-921e-4bfb-b5cb-fed283c1337f",
+    "data": [
+      {
+        "text": "I can divide the list into half, then check if the mid-number is greater or smaller than the particular number to be searched. based on that I can look at one of the halves.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58f3f96d-0944-41d2-b48d-750be0e062f9",
+    "data": [
+      {
+        "text": "I would check where the particular number belongs in the list of sorted numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b4d27a0-85f7-4627-8a87-31e2627ed360",
+    "data": [
+      {
+        "text": "I would skip to somewhere in the sorted list where the particular number might be there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c768c2bc-c88e-48eb-9009-81bb5815c32d",
+    "data": [
+      {
+        "text": "idk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85969f35-96d0-4780-bd12-a59c27fced28",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1c877d2-2551-45e3-a617-0b6968469dcd",
+    "data": [
+      {
+        "text": "I don\u0027t really know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "971b9756-c47d-4b88-911b-25602a8749df",
+    "data": [
+      {
+        "text": "I\u0027d look for the item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9575afbd-4db0-4730-946b-dbe93ed96aee",
+    "data": [
+      {
+        "text": "I guess I\u0027ll look through the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2907e07-c948-42b8-97a1-6ad519280764",
+    "data": [
+      {
+        "text": "I think I\u0027d look through the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da592207-bc97-4531-9e0a-6d370286f108",
+    "data": [
+      {
+        "text": "I\u0027d look through the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac7df730-3c4a-4d02-bb5e-6915a657918c",
+    "data": [
+      {
+        "text": "I\u0027d scan the list until I found it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4df48a30-c7b3-451d-87c2-5078b2e6d36d",
+    "data": [
+      {
+        "text": "I\u0027d use ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": " to find the numberI\u0027d go through ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " of the elements on the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4430955-b775-428d-bcbb-c71add36b5bf",
+    "data": [
+      {
+        "text": "I\u0027d use ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": " to find the number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6ab3c9c-83e3-43ea-8964-510a0fd0590f",
+    "data": [
+      {
+        "text": "I\u0027d check each number of the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e478c760-0fd0-41aa-8763-8f40d432fcc4",
+    "data": [
+      {
+        "text": "I guess I\u0027d look for the number that I want",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "311bfd60-a363-4a07-97f2-21b7c915afdd",
+    "data": [
+      {
+        "text": "I don\u0027t know how I\u0027d do that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5df0cb2-d9a7-4560-8a87-e887e3ea4c1f",
+    "data": [
+      {
+        "text": "Until I located the desired number, I would go through each number that I was looking for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c53a24d4-8758-439d-b38b-b95dd707715e",
+    "data": [
+      {
+        "text": "I\u0027d check each number ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " until I found the ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " that I wanted.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44a57d27-5b25-4cb0-9cbf-3d8a9b46b1c8",
+    "data": [
+      {
+        "text": "I\u0027d guess a number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79fe7a2f-b27d-4863-8968-17fe069b34ad",
+    "data": [
+      {
+        "text": "I\u0027d use ",
+        "userDefined": false
+      },
+      {
+        "text": "binary search",
+        "meta": "@binarySearch",
+        "alias": "binarysearch",
+        "userDefined": false
+      },
+      {
+        "text": " to find the number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e51ac826-45e0-4f89-992c-7010e98c81a0",
+    "data": [
+      {
+        "text": "I would go through each number on the list until I found the ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " I wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

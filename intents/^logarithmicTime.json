@@ -1,0 +1,40 @@
+{
+  "id": "1bad9fb5-9852-4084-9efb-f9f088b78ad6",
+  "name": "^logarithmicTime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Logarithmic time complexity of an algorithm means that as the input size grows, the number of operations grows very slowly. Choose the next topic to learn about: linear search or algorithm efficiency.",
+            "When time taken by an algorithm to run is proportional to the logarithmic of the input size n it is said to have logarithmic time complexity. Which of the following would you be interested in learning more about: the binary search process or the linear search process?",
+            "If an algorithm has logarithmic time complexity, it means that the size of the input we are considering gets split into half with each iteration. Which of these topics would you like to know about: when to use binary search or when to use linear search?",
+            "An algorithm with logarithmic time complexity develops relatively slowly as the size of the input increases. Which of these topics would you like to know about: see an example of binary search or the binary search process?",
+            "An algorithm is considered to have logarithmic time complexity when the amount of time it takes to run is proportional to the input size n. Which subject interests you more: see an example of linear search or linear search?",
+            "A logarithmic time complexity indicates that the size of the input we are considering is divided in half with each iteration of the method. Which subject interests you more, when to use binary search or what is algorithm efficiency?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

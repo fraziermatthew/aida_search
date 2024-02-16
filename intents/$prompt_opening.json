@@ -1,0 +1,74 @@
+{
+  "id": "87e09c8c-4b0f-40d1-931a-2a72efdb14dd",
+  "name": "$prompt_opening",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b6c99fee-fb6f-4fdd-a747-a8cb81b63822",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I missed that. What is your study session number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi there Participant $number 👋! Please reenter the study session number from your instructions to begin the study. Confirm your study session number.",
+            "Good day Participant $number 🙋‍♀️! To begin the study, I\u0027ll need you to reenter your study session number. Confirm your study session number.",
+            "Greetings Participant $number 🤗! Let\u0027s get started. Confirm your session number by reentering it to begin the study. What\u0027s your study session number?",
+            "Welcome Participant $number 💁‍♀️! For starters, I\u0027ll need you to reenter your study session number to begin. Please confirm your study session number.",
+            "Hello Participant $number 👋! Let\u0027s get started. Confirm your session number by reentering it to begin the study. What\u0027s your study session number?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "466294bd-2745-4985-9a28-be3379d0f0e5",
+  "name": "%outOfScope",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2432d1c6-9665-46cd-9c45-62b5497db0b2",
+          "name": "beyondscope",
+          "required": false,
+          "dataType": "@beyondScope",
+          "value": "$beyondscope",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry, I can\u0027t provide information on \"$beyondScope\". What else would you like to learn? I can help you learn about binary search, linear search, and algorithm efficiency. Which would you like to learn next about: the process, see an example, or when to use or not to use? \n\nLet me know if you\u0027d like to learn about a different topic like linear time or constant time.",
+            "I apologize, but I am unable to provide information about \"$beyondScope\". What else do you want to know? I can teach you about linear search, algorithm efficiency, or binary search. Which do you want to learn about next: the process, an illustration, or when to utilize it or not?\n\nIf you\u0027re interested in learning more about another subject, such as linear time or exponential time, let me know.",
+            "I\u0027m sorry, but I\u0027m unable to give you any information about \"$beyondScope\". Do you need to know anything else? What other topics interest you: polynomial time or exponential time? Or, you can ask me to provide you with an explanation of either algorithm efficiency, linear search, or binary search. I can give you some examples, as well as advice on when to use it and when you shouldn\u0027t. What information would you wish to learn about next?",
+            "Sorry, but I\u0027m unable to provide you with any details regarding \"$beyondScope\". I can explain binary search, algorithm efficiency, or linear search. Did you learn about the process, see an example, or learn when to use or not use each algorithm? Any other subjects interests you next: unreasonable time or reasonable time?",
+            "I\u0027m sorry, but I\u0027m unable to give you any information on \"$beyondScope\". Do you need any other details? Tired of learning about binary search, linear search, or algorithm efficiency? Which of these another topics interests you: exponential time or linear time? 📚"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

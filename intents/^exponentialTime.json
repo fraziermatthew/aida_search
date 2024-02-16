@@ -1,0 +1,39 @@
+{
+  "id": "f56cebaa-c977-4564-bd16-7d61d89c17a6",
+  "name": "^exponentialTime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An algorithm takes exponential time if the number of steps is proportional to an exponential function of the size of the input, such as 2^n, 10^n, etc., which is much slower than any polynomial. Which topic interests you more: when to use linear search or polynomial time?",
+            "Any algorithm whose efficiency includes an 2^n, 3^n, 4^n … is called exponential. Which subject interests you more: polynomial time or binary search?",
+            "An exponential-time algorithm is one whose running time grows as an exponential function of the size of its input. Choose the next topic to learn further about: polynomial time or when to use binary search.",
+            "Algorithms which have exponential time complexity are much slower than polynomial algorithms. If an algorithm takes n^2 steps to complete, then it\u0027s polynomial. If it takes 2^n steps, it\u0027s exponential. Which of these topics would you like to know about: polynomial time or see an example of binary search?",
+            "If the number of steps is proportional to an exponential function of the size of the input, such as 2^n, 10^n, etc., the algorithm takes exponential time, which is far slower than any polynomial. Which of the following would you be interested in learning more about: polynomial time or unreasonable time?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

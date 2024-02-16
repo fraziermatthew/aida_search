@@ -1,0 +1,38 @@
+{
+  "id": "eca96182-0e53-44ea-909c-22bb7f92c19a",
+  "name": "^polynomialTime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An algorithm takes polynomial time if the number of steps is less than or equal to a power of the size of the input, such as constant (n^0), sublinear, linear (n^1), quadratic (n^2), or cubic (n^3).\n\nWould else are interested in learning more about? I assist you in learning about binary search, algorithm efficiency, or linear search. I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not.",
+            "Polynomial time algorithms are said to be \"fast.\"  An algorithm exists for its solution such that the number of steps in the algorithm is bounded by a polynomial function of n, where n corresponds to the length of the input for the problem.\n\nWhich of these topics would you like to know about: linear search or algorithm efficiency?",
+            "In general, a polynomial time algorithm is considered \"efficient\". It will not take until the end of the universe to solve even a large such problem. \n\nProblems that can be solved in polynomial time are problems that can be solved quickly. Would you be more interested in learning further about binary search or algorithm efficiency?",
+            "Polynomial time means the number of operations n^k are proportional to power k of the size of input. Would you be more interested in learning further about algorithm efficiency or binary search?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

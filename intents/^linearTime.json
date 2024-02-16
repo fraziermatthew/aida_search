@@ -1,0 +1,44 @@
+{
+  "id": "06e50060-234d-473c-ae09-51c4acde8260",
+  "name": "^linearTime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An algorithm takes linear time if multiplying the input size by ten multiplies the time required by ten. Which subject interests you more: why do we use linear search or algorithm efficiency?",
+            "An algorithm takes linear time if the number of steps is proportional to the input size; doubling the input size doubles the time required. \n\nWhich topic interests you more: when to use linear search or polynomial time?",
+            "As we add more inputs, the number of steps grows at the same rate. Which topic, worst case binary search time complexity or reasonable time, interests you more?",
+            "In linear time, the number of steps increases at the same pace as the number of inputs. Which subject interests you more, constant time or algorithmic efficiency?",
+            "If the number of steps is proportionate to the size of the input, an algorithm runs in linear time. For instance, in linear search, doubling the size of the list doubles the running time. Which of the following would you be interested in learning more about: when to use binary search or the linear search process?",
+            "An algorithm takes linear time the number of steps is proportional to the input size; doubling the input size doubles the time required. Which subject interests you more: why do we use linear search or algorithm efficiency?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "timeIsUp"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

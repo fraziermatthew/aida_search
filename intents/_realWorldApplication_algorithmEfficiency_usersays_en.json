@@ -1,0 +1,286 @@
+[
+  {
+    "id": "ad8b097c-18b0-4ed4-8cb6-2642e066af7e",
+    "data": [
+      {
+        "text": "it means it can be done in less steps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8057dbff-ff4d-4de9-a8b9-9f960b8027f6",
+    "data": [
+      {
+        "text": "it might take longer to finish one over the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1811b2b9-adc7-4009-a144-d76d432a0ebc",
+    "data": [
+      {
+        "text": "slower",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a2c1d45-b214-40f1-b7bc-973c7781ba46",
+    "data": [
+      {
+        "text": "faster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecd30032-a449-4d0e-a70d-0d19451d4967",
+    "data": [
+      {
+        "text": "quicker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0d0ba17-e688-4c9f-a5e6-ba2a12357f21",
+    "data": [
+      {
+        "text": "speed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b235251-cc8d-46e9-9c85-a99e5779661c",
+    "data": [
+      {
+        "text": "I guess the algorithm is done faster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c4863ac-ec7c-4130-a02f-0bc98c645f0d",
+    "data": [
+      {
+        "text": "I guess it means that ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " is better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82ab5309-a639-4108-a88c-7b4a233df142",
+    "data": [
+      {
+        "text": "I don\u0027t really know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d1f9325-0600-4261-93ca-1aeaee0d983a",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98b62725-f389-4977-ae21-81d8e05c950d",
+    "data": [
+      {
+        "text": "The algorithm will finish before the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b062b4c1-0496-49ab-87c1-484abd0aaa8f",
+    "data": [
+      {
+        "text": "The algorithm has less steps than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7446966f-f044-463d-b931-6e21b30c2c91",
+    "data": [
+      {
+        "text": "The algorithm is quicker than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "117db512-28bb-4293-a0c0-ed693b041c0d",
+    "data": [
+      {
+        "text": "It runs for a longer time than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93225be2-b62b-41c1-9d9d-9c86b3b5b05b",
+    "data": [
+      {
+        "text": "It takes longer to complete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "679fc174-08a1-4a0b-a3c9-137a4fb10bda",
+    "data": [
+      {
+        "text": "It is more difficult because there is more steps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0a3e17b-6d58-498d-b4ba-a70c58c9b134",
+    "data": [
+      {
+        "text": "One",
+        "userDefined": false
+      },
+      {
+        "text": " algorithm has more steps than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "179e6f6b-4622-49d1-aa0f-24ab31b189ca",
+    "data": [
+      {
+        "text": "You can finish the algorithm in less steps than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3012fff3-39e0-4d9e-874e-670875447869",
+    "data": [
+      {
+        "text": "One",
+        "userDefined": false
+      },
+      {
+        "text": " algorithm is faster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0a086f4-7c8c-4e3b-af10-13dcf9f2c67f",
+    "data": [
+      {
+        "text": "It means that ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " has less steps than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

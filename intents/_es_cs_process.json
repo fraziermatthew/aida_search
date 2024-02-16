@@ -1,0 +1,57 @@
+{
+  "id": "9a403c46-3a9f-48ce-9bf3-d3517de5cf19",
+  "name": "*es_cs_process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "whatistheprocess-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "25007f91-99b0-41fa-b2c5-3dc0edf3dca7",
+          "name": "process",
+          "required": false,
+          "dataType": "@process",
+          "value": "$process",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What process would you like to see? Linear search, binary search, or the process of determining algorithm efficiency?",
+            "What process do you want to see? The process of determining algorithm efficiency, linear search process, or binary search process?",
+            "Which process would you like to learn about? The binary search process, linear search process, or the process of determining algorithm efficiency?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

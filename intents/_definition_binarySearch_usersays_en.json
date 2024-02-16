@@ -1,0 +1,342 @@
+[
+  {
+    "id": "d0f96119-19c4-43be-ba7e-40b25138cccb",
+    "data": [
+      {
+        "text": "it is the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c1b298d-19af-4ce9-a39a-9608679d64ea",
+    "data": [
+      {
+        "text": "it looks like they are same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c295fd7d-6820-43e8-bfb6-3f44315ef155",
+    "data": [
+      {
+        "text": "Binary search sounds more efficient than ",
+        "userDefined": false
+      },
+      {
+        "text": "linear",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db2d1873-565b-4dfb-a474-d3d212d01484",
+    "data": [
+      {
+        "text": "Which previous algorithm are you talking about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b81f0f5c-db3d-48ee-8039-8e07ab1bb928",
+    "data": [
+      {
+        "text": "I didn\u0027t develop any algorithms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be2e051c-159b-4871-8ad2-4ea05c6c1a4c",
+    "data": [
+      {
+        "text": "i didn\u0027t describe an algorithm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7d3fa12-e482-4be6-939b-28f977380114",
+    "data": [
+      {
+        "text": "i didn\u0027t create a previous algorithm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a236bc3-f631-427b-89e0-7601e5e957a6",
+    "data": [
+      {
+        "text": "pretty much the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87d505a4-e08c-47ce-b998-c242ea75c817",
+    "data": [
+      {
+        "text": "I didn\u0027t create any prior algorithms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bb8227d-7479-4e25-9030-62b7404fb2d4",
+    "data": [
+      {
+        "text": "it only looks through half",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc76d4d2-c125-4a74-9c30-dfc370054530",
+    "data": [
+      {
+        "text": "it is not sequential",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e63ea4ca-51e3-4d53-9c1a-9041a6031825",
+    "data": [
+      {
+        "text": "it is not ",
+        "userDefined": false
+      },
+      {
+        "text": "linear",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "287f39e8-3a14-4db6-9dc4-aedf7ccf2062",
+    "data": [
+      {
+        "text": "it doesn\u0027t check each item ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dc25665-1672-48c8-a55f-0df7ef6dbabb",
+    "data": [
+      {
+        "text": "it is quicker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72a3d7c1-ddde-4c9e-a196-80bbf73be958",
+    "data": [
+      {
+        "text": "it can be done in half the time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c2cfda0-ce57-4d4e-b786-b621713b018e",
+    "data": [
+      {
+        "text": "it cuts down half",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32a8b1f8-2d1f-4a49-bf46-33bd2a01a04b",
+    "data": [
+      {
+        "text": "it cuts down half the names",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "196c12ce-4947-4308-9cdc-1ec2364d3c70",
+    "data": [
+      {
+        "text": "its faster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cb462b6-a994-40d3-b8d0-f9223ba75291",
+    "data": [
+      {
+        "text": "it scrolls down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cefd7ee2-735d-48ec-8aef-2bb54439854a",
+    "data": [
+      {
+        "text": "It is sort of the same",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9c337de-07a0-47b2-9f18-127484191dd5",
+    "data": [
+      {
+        "text": "It doesn\u0027t check items one by one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb360a11-134b-4d95-9c68-0e15b350b4e5",
+    "data": [
+      {
+        "text": "It\u0027s different because it doesn\u0027t look at each item iteratively",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09d63dd4-1620-4859-9d13-3f37cf5e9c96",
+    "data": [
+      {
+        "text": "I created a similar algorithm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97c64d0a-4b74-4bca-88a0-f1f23883963c",
+    "data": [
+      {
+        "text": "If I were using a dictionary, I would flip through the pages until I found the word I want",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

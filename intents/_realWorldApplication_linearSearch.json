@@ -1,0 +1,77 @@
+{
+  "id": "c83f3b7d-92e8-4fa0-b373-637ff9793e78",
+  "parentId": "f39b5fc2-6092-4c36-8f4e-154882858ce2",
+  "rootParentId": "f39b5fc2-6092-4c36-8f4e-154882858ce2",
+  "name": "_realWorldApplication_linearSearch",
+  "auto": true,
+  "contexts": [
+    "02_personalReflection_linearSearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "02_personalReflection_linearSearch.02_personalReflection_linearSearch-custom",
+      "affectedContexts": [
+        {
+          "name": "_realWorldApplication_linearSearch-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a2fbbfac-799f-41df-bdc4-3b4f24802535",
+          "name": "binarysearch",
+          "required": false,
+          "dataType": "@binarySearch",
+          "value": "$binarysearch",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d3621dae-5da3-425b-9b2f-0a2c14ffc38c",
+          "name": "linearsearch",
+          "required": false,
+          "dataType": "@linearSearch",
+          "value": "$linearsearch",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Linear search is sequential. It\u0027s similar to figuring out if anyone has a winning raffle ticket when you have a winning number and a list of tickets. To check for the winning number, you might compare your winning numbers, one by one, to each ticket in your list. How is what you described about finding a word in an unsorted list of words the same or different compared to searching for a winning raffle ticket in this way?",
+            "Linear search is similar to searching for a specific toy in a toy chest or box. When looking for a specific toy, you would start at the top of the chest and scan each toy until they find the one you want. The toy chest is like a list of toys and the linear search algorithm is used to find the specific toy being searched for. How does searching for a toy in this way (linearly) compare to what you described about finding a word in an unsorted list of words? Why is it the same or different?",
+            "Linear search is similar to searching for a specific email in your inbox. When searching for a specific email in your inbox, you might start at the top of your inbox and scan each email until you find the one you want. This is a linear search, where the emails are like elements in a list, and you\u0027re checking each email in order until you find the one you\u0027re looking for. How does process compare of finding a specific email compared to what you described about finding a word in an unsorted list of words? Why is it the same or different?",
+            "Linear search operates similarly to finding a specific box of cereal in a grocery store. When looking for the box of cereal you want in a grocery store, you might start at one end of an aisle and scan each box until you find the one you want. This is similar to a linear search, where the boxes of cereal on the shelves are like elements in a list, and you\u0027re checking each item in order until you find the one you\u0027re looking for. How does finding a specific box of cereal at a grocery store differ from what you described about finding a word in an unsorted list of words? Why is it the same or different?",
+            "Linear search checks items one by one like searching for a particular candy in a bag of assorted candies or chocolates, where the candies are like elements in a list, and the linear search algorithm is used to find the specific candy being searched for. How is this algorithm (method) of finding a particular candy the same or different from finding a word in an unsorted list of words?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

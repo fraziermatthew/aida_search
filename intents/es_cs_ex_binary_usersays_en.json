@@ -1,0 +1,107 @@
+[
+  {
+    "id": "5ebbfba3-79f8-48bb-99cf-949e28878cb1",
+    "data": [
+      {
+        "text": "I want an illustration of binary search",
+        "meta": "@binarySearchExample",
+        "alias": "binarysearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8dea400-c5e4-4c0e-b800-d241dde24cad",
+    "data": [
+      {
+        "text": "i want an example of binary search",
+        "meta": "@binarySearchExample",
+        "alias": "binarysearchexample",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5376375f-4922-48d5-ad19-8f6c062f70e8",
+    "data": [
+      {
+        "text": "I want to see an illustration of how binary search works",
+        "meta": "@binarySearchExample",
+        "alias": "binarysearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8beb34a4-6940-48c4-a223-4ce2648c97dd",
+    "data": [
+      {
+        "text": "show me a binary search example",
+        "meta": "@binarySearchExample",
+        "alias": "binarysearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d306ef7b-0b4b-48e5-b5e1-ef701c780062",
+    "data": [
+      {
+        "text": "example of binary search",
+        "meta": "@binarySearchExample",
+        "alias": "binarysearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c8abc3e-6df3-408c-8ab9-17260a8eac6a",
+    "data": [
+      {
+        "text": "binary search",
+        "meta": "@binarySearchExample",
+        "alias": "binarysearchexample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "989d22f7-a9be-4931-9619-cb46104b4180",
+    "data": [
+      {
+        "text": "binary search example",
+        "meta": "@binarySearchExample",
+        "alias": "binarysearchexample",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

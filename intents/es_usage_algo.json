@@ -1,0 +1,63 @@
+{
+  "id": "55838f5a-2fb5-4527-9cfc-e79ee8c1c2f3",
+  "parentId": "4dd557ca-791c-429b-a874-997be05f81ee",
+  "rootParentId": "4dd557ca-791c-429b-a874-997be05f81ee",
+  "name": "es_usage_algo",
+  "auto": true,
+  "contexts": [
+    "es_usage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_usage.es_usage-custom",
+      "affectedContexts": [
+        {
+          "name": "es_usage_algo-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "642c0abc-0ac8-4c2f-b9e6-45e017fdfc7b",
+          "name": "algorithmEfficiencyUsage",
+          "required": false,
+          "dataType": "@algorithmEfficiencyUsage",
+          "value": "$algorithmEfficiencyUsage",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wondering when to consider algorithm efficiency? Here\u0027s a hint 😏: Binary search is a faster algorithm than linear search, not slower. \n\nAs the size of the list gets larger (2x, 5x, 10x, 100x, etc.), finding items in lists become quicker. With that in mind, what factor determines how much faster binary search is than linear search?",
+            "Here\u0027s a tip on when to consider algorithm efficiency 💁‍♀️: Binary search is not slower than linear search; it is really faster. The speed improvements become really apparent on very large lists.\n\nAs the size of the list gets larger (2x, 5x, 10x, 100x, etc.), finding items in lists become quicker. What factor determines the impact of how much binary search is faster than linear search?",
+            "Want to know when to consider algorithm efficiency? I\u0027ll give you a clue🕵️. Binary search improves algorithm efficiency compared to linear search. \n\nConsider the small lists vs. extremely large lists. What factor determines the impact of how much binary search is faster than linear search?",
+            "When should one take algorithm efficiency into account? Want a clue🕵️‍♀️? Compared to linear search, binary search is a way faster algorithm. \n\nConsider this... the list you\u0027re searching through is small vs large. As the size of the list gets larger (2x, 5x, 10x, 100x, etc.), finding items in lists become quicker. What factor determines the impact of how much binary search is faster than linear search?",
+            "When should you take algorithm efficiency into account? Want a hint 🤔? Binary search improves efficiency compared to linear search. As the size of the list gets larger (2x, 5x, 10x, 100x, etc.), finding items in lists become quicker.\n\nWhat factor determines the impact of how much binary search is faster than linear search?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

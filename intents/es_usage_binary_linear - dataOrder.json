@@ -1,0 +1,93 @@
+{
+  "id": "f1a99324-3159-4d23-adc8-aba7e5b733e6",
+  "parentId": "83f83840-1683-4a1b-86df-0ec31b362615",
+  "rootParentId": "4dd557ca-791c-429b-a874-997be05f81ee",
+  "name": "es_usage_binary_linear - dataOrder",
+  "auto": true,
+  "contexts": [
+    "es_usage_binary_linear-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "es_usage.es_usage-custom.es_usage_binary_linear-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e5cc4153-42b5-4c51-819e-1cadfecf47e8",
+          "name": "sorted",
+          "required": true,
+          "dataType": "@sorted",
+          "value": "$sorted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here\u0027s a tip 🤓... imagine using binary search to look for the number \"6\" in this unsorted list: [3, 6, 2, 11, 12]. What does the list need to be for binary search to work properly? Sorted or unsorted?"
+            },
+            {
+              "lang": "en",
+              "value": "Want a clue 🕵️? What if you used binary search to look for the number \"5\" in an unsorted list: [3, 5, 4, 14, 10]. \n\nBinary search eliminates results using the middle element. What type of order does the list need to be in for binary search to work properly? Sorted or unsorted?"
+            },
+            {
+              "lang": "en",
+              "value": "A clue for you 💁‍♀️: Binary search requires a certain kind of list. Suppose you tried finding the number \"7\" on this list using binary search: [2, 7, 3, 13, 19]. What would happen? What type of order does the list need to be in for binary search to work properly? Sorted or unsorted?"
+            },
+            {
+              "lang": "en",
+              "value": "Need a hint 🤓? A particular \"sort\" of list is necessary for binary search. Try finding the number \"9\" in the following list using binary search: [2, 9, 3, 13, 19].  \n\nWhat does the list need to be for binary search to work properly? Sorted or unsorted?"
+            },
+            {
+              "lang": "en",
+              "value": "Here\u0027s something to ponder on... 🤔 imagine using binary search to look for the number \"6\" in this unsorted list: [3, 6, 2, 11, 12]. Binary search makes use of the middle element to rule out incorrect items. What type of order does the list need to be in for binary search to function correctly? Sorted or not?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d119f3f4-6266-4af7-9aba-1c656a14deb0",
+          "name": "unsorted",
+          "required": false,
+          "dataType": "@unsorted",
+          "value": "$unsorted",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ah yeah, that\u0027s right 🙌! Binary search requires the list be sorted. If the list were unsorted, binary search could cause false negatives. Due to its divide and conquer nature, it\u0027s possible that the element you\u0027re searching for is in the half of the data that is being eliminated. Meaning that, the list contains the number you\u0027re searching for but binary search will return that the element is not found. \n\nWould you like to see an example of binary search? If not, let\u0027s move on to the next consideration. To find this out, ask me when to use algorithm efficiency.",
+            "Great job 🥳! For binary search algorithm to work correctly, the list is must be sorted. In unsorted lists, it\u0027s possible that the element that you\u0027re looking for is in the half of the list that is being removed because of the divide and conquer strategy. If you would like to see an example of binary search, let me know.\n\nOtherwise, to learn about what else needs to be taken into account when using binary vs linear search, ask me about when to use algorithm efficiency.",
+            "Right on 👍! An important thing to keep in mind is that binary search can only be used on sorted data. If the data is unsorted, the algorithm will not always produce accurate results. The number you\u0027re looking for could be in the list, but binary search will indicate that it cannot be found. \n\nLet me know if you\u0027d like to view an example of binary search. If you\u0027re curious about what else to consider when using binary search vs linear search, then move on when to use algorithm efficiency.",
+            "You\u0027ve got it! In unsorted lists, linear search is used because if binary search were used, you may not find the item you\u0027re searching for even if it exists in the list. If you\u0027d want to see an example of binary search fails, let me know.\n\nMoving on to the next thing to consider, learn about when to use or not to use algorithm efficiency to find out more.",
+            "Super 💁‍♀️! Suppose the list is unsorted. Because binary search cuts half of the list after each comparison, it may fail to locate the element you\u0027re looking for even when it is actually present in the list. Linear search is used to search unsorted lists. Binary search requires the data in the list to be ordered. Please let me know if you\u0027d want to see an example of binary search.\n\nWondering what the second consideration is when choosing to use binary vs linear search? It depends on algorithm efficiency. To find out more, ask me about when to use or not to use algorithm efficiency."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

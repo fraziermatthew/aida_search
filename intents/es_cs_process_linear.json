@@ -1,0 +1,58 @@
+{
+  "id": "f65ea08c-b324-4907-985e-6563ae015e02",
+  "parentId": "9a403c46-3a9f-48ce-9bf3-d3517de5cf19",
+  "rootParentId": "9a403c46-3a9f-48ce-9bf3-d3517de5cf19",
+  "name": "es_cs_process_linear",
+  "auto": true,
+  "contexts": [
+    "whatistheprocess-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "whatistheprocess.whatistheprocess-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6da14d6c-fca1-4814-945c-140d3aeeac18",
+          "name": "linearsearchprocess",
+          "required": false,
+          "dataType": "@linearSearchProcess",
+          "value": "$linearsearchprocess",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The algorithm works as follows:\n\n1. Start at the beginning of the list.\n\n2. Check each element of the list one by one, starting from the first element, until you find the element you\u0027re searching for, or until you reach the end of the list.\n\n3. If you find the element you\u0027re searching for, stop the search and return the index of that element in the list.\n\n4. If you reach the end of the list without finding the element, stop the search and return a \"not found\" message.\n\nWhich subject interests you next: the algorithm efficiency process or when to use linear search?",
+            "Let me explain the linear search process step-by-step in more detail:\n\n1. Start at the beginning of the list: To begin the search, the algorithm starts at the first element of the list.\n\n2. Check each element of the list one by one: The algorithm checks each element of the list one by one, starting from the first element, until the element being searched for is found, or until the end of the list is reached.\n\n3. If you find the element you\u0027re searching for, stop the search and return the index of that element in the list: If the element being searched for is found in the list, the search is stopped, and the index of that element in the list is returned.\n\n4. If you reach the end of the list without finding the element, stop the search and return a \"not found\" message: If the element being searched for is not found in the list, the search is stopped, and a \"not found\" message is returned.\n\nThat\u0027s the process. Which subject interests you next: the binary search process or when to use linear search?",
+            "Here is how the algorithm operates:\n\n1. Begin at the list\u0027s beginning.\n\n2. Start at the first element of the list and go through each element one at a time until you find the one you\u0027re looking for or until the end of the list.\n\n3. If the element you\u0027re looking for is found, end the search and return the element\u0027s index in the list.\n\n4. Stop the search and deliver a \"not found\" message if you reach the end of the list without locating the element. \n\nWhich subject would you like to learn about, the algorithm efficiency process or unreasonable time?",
+            "I\u0027ll go over the linear search procedure step-by-step now:\n\n1. Begin at the list\u0027s beginning: The first member of the list is where the search process starts.\n\n2. Do a one-by-one check on each element of the list: Beginning with the first element of the list, the algorithm checks each element individually until the element being searched for is found, or until the end of the list, whichever comes first.\n\n3. If the element you\u0027re looking for is found, end your search and return the element\u0027s index in the list: The search is ended and the index of the element in the list is returned if the element being searched for is located there.\n\n4. Stop the search and return a \"not found\" message if you reach the end of the list without finding the element: If the element being looked for is not present in the list, the search is ended and a \"not found\" message is returned.\n\nWhich subject would you like to learn about, the binary search process or polynomial time?",
+            "The procedures for implementing linear search are as follows:\n\nStep 1: First, read the search element (target element) in the list.\n\nStep 2: In the second step, compare the search element with the first element in the list.\n\nStep 3: If both are matched, the target element is found and terminate the linear search. \n\nStep 4: If both are not matched, compare the search element with the next element in the list. \n\nStep 5: In this step, repeat steps 3 and 4 until the search (target) element is compared with the last element of the list.\n\nStep 6: If the last element in the list does not match, the linear search will be terminated.\n\nWhich subject would you like to learn about, what is algorithm efficiency or what is binary search?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

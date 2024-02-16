@@ -1,0 +1,32 @@
+[
+  {
+    "id": "15761fb3-a4cd-4863-98ee-e7efb944a279",
+    "data": [
+      {
+        "text": "binary search",
+        "meta": "@binarySearchProcess",
+        "alias": "binarysearchprocess",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa107b1d-6182-4998-9130-3701fcc8a891",
+    "data": [
+      {
+        "text": "binary search process",
+        "meta": "@binarySearchProcess",
+        "alias": "binarysearchprocess",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

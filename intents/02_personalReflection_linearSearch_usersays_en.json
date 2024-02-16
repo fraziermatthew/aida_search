@@ -1,0 +1,302 @@
+[
+  {
+    "id": "a25f0d47-8b55-4bc7-8118-b48deecd841e",
+    "data": [
+      {
+        "text": "How do I write a program that searches for an item in a list?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3fb699b-c323-4d7f-90a1-a1d1e09543d5",
+    "data": [
+      {
+        "text": "I have to write a program that searches for an item in a list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a942337f-3bb8-43d1-b0d3-da06f276c9e3",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": " mean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0eba664f-3ddd-4568-afb8-92b9a5d27e00",
+    "data": [
+      {
+        "text": "define ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c34e4b84-b7de-4a69-a721-d4f68f78b635",
+    "data": [
+      {
+        "text": "definition ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "541463e2-8c15-4ff0-b2a3-177fba19b61e",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f75fa08-1606-4539-8963-9df4a7140912",
+    "data": [
+      {
+        "text": "what do you know about ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0060d5e6-487b-45bb-9ee6-d9e5e44bd5ac",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3f2a7fc-4a03-477d-98f8-799ba8e4b7f7",
+    "data": [
+      {
+        "text": "I\u0027m interested in learning about ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "830aae72-cd22-4bc7-ab66-1d39395277a4",
+    "data": [
+      {
+        "text": "I\u0027m curious about ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "110c7a1e-ef1e-4819-b28b-64691c700b02",
+    "data": [
+      {
+        "text": "I\u0027m interested in ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddb4f564-043a-4013-84bc-10d62f666203",
+    "data": [
+      {
+        "text": "I want to learn about ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8703ff8-f085-4ba4-abbe-a69828bb5c26",
+    "data": [
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": ", what is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16cba8bd-3aa0-4532-b564-d581e774b9e1",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79f47e46-5722-41c6-932d-55d18a3f4e8b",
+    "data": [
+      {
+        "text": "what\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7332f1b0-9fe5-4746-884e-1229715446ef",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

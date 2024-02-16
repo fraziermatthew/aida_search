@@ -1,0 +1,35 @@
+{
+  "id": "a290d134-a668-4029-b59a-4bc38590f98a",
+  "name": "^algorithm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn\u0027t have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language. Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice.\n\nWould else are interested in learning more about? I assist you in learning about binary search, algorithm efficiency, or linear search. I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

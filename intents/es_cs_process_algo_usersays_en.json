@@ -1,0 +1,100 @@
+[
+  {
+    "id": "124833f4-5ea3-464f-a41e-6ad45324a255",
+    "data": [
+      {
+        "text": "efficiency process",
+        "meta": "@algorithmEfficiencyProcess",
+        "alias": "algorithmEfficiencyProcess",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7a246c2-6a51-4812-baa4-203da8ed7289",
+    "data": [
+      {
+        "text": "determining algorithm efficiency",
+        "meta": "@algorithmEfficiencyProcess",
+        "alias": "algorithmEfficiencyProcess",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed7df15d-0f66-43a4-b10a-0ed448d4d40d",
+    "data": [
+      {
+        "text": "the process of determining algorithm efficiency",
+        "meta": "@algorithmEfficiencyProcess",
+        "alias": "algorithmEfficiencyProcess",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1861aae6-4b46-41f9-afea-0fa06e18e36f",
+    "data": [
+      {
+        "text": "how can I ",
+        "userDefined": false
+      },
+      {
+        "text": "find out if one algorithm is more efficient than another",
+        "meta": "@algorithmEfficiencyProcess",
+        "alias": "algorithmEfficiencyProcess",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdf78e06-2223-456a-9e7f-2b36d1afdd5e",
+    "data": [
+      {
+        "text": "algorithm efficiency",
+        "meta": "@algorithmEfficiencyProcess",
+        "alias": "algorithmEfficiencyProcess",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c69d3a16-6ca0-42d8-b34c-c05ce79d0f0f",
+    "data": [
+      {
+        "text": "algorithm efficiency process",
+        "meta": "@algorithmEfficiencyProcess",
+        "alias": "algorithmEfficiencyProcess",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "cab76e76-7b2b-4b1a-adc9-82dc10448419",
+  "name": "^constantTime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "An algorithm takes constant time if it takes the same number of steps regardless of input size. Would else are interested in learning more about? I assist you in learning about binary search, algorithm efficiency, or linear search. I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not.",
+            "If an algorithm performs the same number of steps regardless of the amount of the input, it is said to have constant time. Which topic, the linear search process or the binary search process, would you like to know more about?",
+            "An operation or method takes constant time if the time it takes to carry it out does not depend on the size of its operands. Which topic interests you more: when to use linear search or polynomial time?",
+            "Constant time algorithms will always take same amount of time to be executed. Choose the next topic to learn further about. I assist you in learning about binary search, algorithm efficiency, or linear search. I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not.",
+            "Constant time represents a function that will not take a longer amount of time or take more steps to produce a result given different inputs. Which of these topics would you like to know about: linear search or algorithm efficiency?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "4dd557ca-791c-429b-a874-997be05f81ee",
+  "name": "*es_usage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "es_usage-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ba67138a-b54f-43cf-8c9c-5558bebc3977",
+          "name": "usage",
+          "required": false,
+          "dataType": "@usage",
+          "value": "$usage",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What subject do you want to learn more about usage in? Using linear search, using binary search or using algorithm efficiency?",
+            "Which subject would you like to learn about usage in? Using binary search, using linear search or when to consider algorithm efficiency?",
+            "What topic would you like to learn about when to use and when not to use? When you should consider algorithm efficiency, use linear search or use binary search?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

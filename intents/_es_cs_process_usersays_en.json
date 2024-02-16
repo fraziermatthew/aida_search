@@ -1,0 +1,258 @@
+[
+  {
+    "id": "9c888085-23a8-4354-8fce-ba4a1e9f6973",
+    "data": [
+      {
+        "text": "What is the process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      },
+      {
+        "text": " of binary search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "190d7164-2d41-45bd-b423-f4ac11f7dd91",
+    "data": [
+      {
+        "text": "How does algorithm efficiency ",
+        "userDefined": false
+      },
+      {
+        "text": "work",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0686e26e-1a74-4421-8777-69d1eff1a3f0",
+    "data": [
+      {
+        "text": "How does",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": true
+      },
+      {
+        "text": " linear search work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f0bf519-e748-4db3-bebf-b64c024c0ab0",
+    "data": [
+      {
+        "text": "How does it work?",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dfbef3b-4ecc-4de4-8254-6fdedcc5d4b8",
+    "data": [
+      {
+        "text": "How does a",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": true
+      },
+      {
+        "text": " binary search work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5211281-1803-4ba7-b6de-f2c3ad22a4de",
+    "data": [
+      {
+        "text": "teach me the ",
+        "userDefined": false
+      },
+      {
+        "text": "process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfbe8284-0f71-47d9-a31c-7751d1dd9802",
+    "data": [
+      {
+        "text": "I want to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaba5c88-6677-4067-b300-03b70bd5d45d",
+    "data": [
+      {
+        "text": "can you show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c4f26af-57f9-48ec-b2f8-88346b4e4e17",
+    "data": [
+      {
+        "text": "algorithm efficiency ",
+        "userDefined": false
+      },
+      {
+        "text": "process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f6b26fc-591e-499f-902d-46452dd6e5f3",
+    "data": [
+      {
+        "text": "linear search ",
+        "userDefined": false
+      },
+      {
+        "text": "process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e1cb38-7f18-4bda-8a2d-3846f4476645",
+    "data": [
+      {
+        "text": "binary search ",
+        "userDefined": false
+      },
+      {
+        "text": "process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd6d179d-88d5-45b7-a442-c291c757d45c",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "method",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdadfed7-6d5e-44f8-8679-1c23b8a92862",
+    "data": [
+      {
+        "text": "can you show me how to do that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b29e773-c456-4b18-a2d1-76e4cd314e73",
+    "data": [
+      {
+        "text": "what is the process",
+        "meta": "@process",
+        "alias": "process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

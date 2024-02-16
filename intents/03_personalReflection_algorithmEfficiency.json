@@ -1,0 +1,60 @@
+{
+  "id": "0e3f8a31-deee-4ccc-86ec-8ef4edc603ba",
+  "name": "03_personalReflection_algorithmEfficiency",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "03_personalReflection_algorithmEfficiency-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0f0fafdf-8859-46b2-898f-497ff15cf6ef",
+          "name": "algorithmEfficiency",
+          "required": false,
+          "dataType": "@algorithmEfficiency",
+          "value": "$algorithmEfficiency",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "One important factor in choosing or designing an algorithm is its efficiency. What does it mean to compare the algorithms and conclude that one is better than the other?",
+            "Measuring an algorithm’s efficiency is important because your choice of an algorithm for a given application often has a great impact. What does it mean to say one algorithm is “more efficient” than another?",
+            "The effectiveness of the algorithm is a crucial consideration while selecting or creating it. Why is one algorithm faster than another, exactly?",
+            "For a given problem, several different solution algorithms can be derived. What does it mean to say one algorithm is faster than another algorithm?",
+            "In computer science, algorithmic efficiency is a characteristic of an algorithm. To compare the algorithms and draw the conclusion that one is quicker than the other means what exactly?",
+            "Many solution algorithms can be derived for a given problem. What does it mean to compare the algorithms and determine that one is \"more efficient\" than the other?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "001d440d-06f7-4293-a09b-77b2ebb65731",
+  "parentId": "e8d4756b-8f7e-48de-870d-fc957e5a272e",
+  "rootParentId": "3ce23ae3-2cfc-4ace-a4cc-9211acaa95db",
+  "name": "_definition_binarySearch",
+  "auto": true,
+  "contexts": [
+    "_realWorldApplication_binarySearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "01_personalReflection_binarySearch.01_personalReflection_binarySearch-custom._realWorldApplication_binarySearch-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ce7240c-1ac0-4a33-924f-a15bd3c7c5a9",
+          "name": "linearsearch",
+          "required": false,
+          "dataType": "@linearSearch",
+          "value": "$linearsearch",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A binary search algorithm repeatedly divides the list in half until the target element is found or it is determined that the element is not in the list. Would you like to further explain?\n\nI can assist you in understanding the linear search procedure, viewing an example, or determining when to utilize the linear search method or not. Which linear search concept would you like to study next?",
+            "Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you\u0027ve narrowed down the possible locations to just one. The algorithm gets its name from the way it repeatedly \"divides\" the data in half. Do you want me to explain this again?\n\nI can explain binary search to you, give you an example, tell you when to use it and when you shouldn\u0027t, and go over its applications. What binary search information would you like to learn next?",
+            "Binary search is used to find a specific element in a sorted list of elements. It\u0027s called \"binary\" search because it repeatedly \"divides\" the data in half, reducing the number of elements that need to be searched by half with each iteration. Would you like a more thorough explanation?\n\nYou can ask me to provide you with an explanation of algorithm efficiency, an example, advice on when to use it and when you shouldn\u0027t, as well as details on its uses. Which subject are you interested in studying?",
+            "The basic idea behind the binary search algorithm is to repeatedly divide the list of numbers in half, reducing the number of elements that need to be searched by half with each iteration. Would you like me to re-explain this?\n\nYou can ask me to provide you with an explanation of binary search, an illustration, and suggestions on when you should and shouldn\u0027t use it. Which subject would you like to learn more about next?",
+            "Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you\u0027ve narrowed down the possible locations to just one. The basic idea is to compare the middle element of the list with the item, and if they are not equal, to then use the middle element to split the list into two \"half-lists\", and then repeat the process with the half-list that could contain the item, until the item is found. Would you like a different explanation?\n\nYou can ask me to provide you with a definition of linear search, an illustration of how it works, advice on when to use it and when not to, as well as specifics on how it is used. Which topic are you most interested in learning more about?",
+            "A binary search algorithm starts in the middle of a sorted list and repeatedly eliminates half the list until either the desired value is found or all elements have been eliminated. Linear search does a complete traversal of the list. Binary search saves time by doing a partial traversal of the list. Would you like a different explanation? \n\nYou can ask me to provide you with a definition of algorithm efficiency, an illustration of how it works, advice on when to use it and when not to, as well as specifics on how it is used. Which topic are you most interested in learning more about?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "eec37449-a84f-41ff-8d6a-9b77ef7b3958",
+    "data": [
+      {
+        "text": "searching for an item in a sorted list",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18b6c4ce-4699-4254-801c-b6702182254d",
+    "data": [
+      {
+        "text": "searching for an item in an unsorted list",
+        "meta": "@linearSearchUsage",
+        "alias": "linearSearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbb867cc-10e7-468d-8dc9-ad29f478c385",
+    "data": [
+      {
+        "text": "searching for an item in a list",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0edced95-ddb8-4efc-87f7-dcadf664eac0",
+    "data": [
+      {
+        "text": "not using linear search",
+        "meta": "@linearSearchUsage",
+        "alias": "linearSearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7d9c1bd-73ee-4dbc-a63f-e25f14c19dd6",
+    "data": [
+      {
+        "text": "using linear search",
+        "meta": "@linearSearchUsage",
+        "alias": "linearSearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87dfcf05-9c47-4a92-82db-c637094f2e94",
+    "data": [
+      {
+        "text": "when not to use linear search",
+        "meta": "@linearSearchUsage",
+        "alias": "linearSearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b30071f2-5fc7-4b4f-9dc6-c55042bdfa9e",
+    "data": [
+      {
+        "text": "when to use linear search",
+        "meta": "@linearSearchUsage",
+        "alias": "linearSearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dccc353-e6eb-4221-b0fe-e6854980b9d1",
+    "data": [
+      {
+        "text": "linear search",
+        "meta": "@linearSearchUsage",
+        "alias": "linearSearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d78687db-9860-4115-b053-36166bdbb888",
+    "data": [
+      {
+        "text": "linear search usage",
+        "meta": "@linearSearchUsage",
+        "alias": "linearSearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11409ca6-1e6f-4f32-a8d6-a8fc1b99d847",
+    "data": [
+      {
+        "text": "not using binary search",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "175d481a-6454-4194-a63f-bf7551bf5b7d",
+    "data": [
+      {
+        "text": "using binary search",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b08fae3e-c7de-40a0-8c6b-8d4e22dfe397",
+    "data": [
+      {
+        "text": "when not to use binary search",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5bd5e34-b2ec-4341-9fad-97f87543c19e",
+    "data": [
+      {
+        "text": "when to use binary search",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "184a4999-3778-4025-b0d6-cdd906c516ff",
+    "data": [
+      {
+        "text": "binary search",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "873e7f31-899d-4145-9b84-16e4dc6301d4",
+    "data": [
+      {
+        "text": "binary search usage",
+        "meta": "@binarySearchUsage",
+        "alias": "binarySearchUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

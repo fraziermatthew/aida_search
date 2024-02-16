@@ -1,0 +1,57 @@
+{
+  "id": "66e37d77-4675-4eb8-974f-ab573386df40",
+  "parentId": "7e8145c3-d2c9-4938-977b-8e863fceed65",
+  "rootParentId": "7e8145c3-d2c9-4938-977b-8e863fceed65",
+  "name": "es_cs_ex_binary",
+  "auto": true,
+  "contexts": [
+    "showmeanexample-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "showmeanexample.showmeanexample-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e5b4cb6-139e-4bc7-8475-9074ec6cfb0d",
+          "name": "binarysearchexample",
+          "required": false,
+          "dataType": "@binarySearchExample",
+          "value": "$binarysearchexample",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is an example of binary search. What if you were looking for the number 5 in this sorted list of numbers: [2, 4, 5, 7, 9, 11, 13]. \n\n1. Using binary search, you would check the middle number, 7, and eliminate the back half of the list including 7 since 5 is less than 7. \n\n2. Then, you would check if the middle element of the new list is the number you’re searching for. Since it is 4, you would eliminate the front half of the list including 4 since 5 is greater than 4. \n\n3. Lastly you would check the middle number, in this case there is only one number left. It is 5. \n\nYou’ve found the number in the list. Let me know which topic you\u0027d like to learn about next: linear search or algorithm efficiency?",
+            "Sure! Let\u0027s say we have a sorted list of integers: [1, 3, 4, 6, 8, 9, 11, 12, 15, 17, 18, 20] and we want to find the number 15.\n\n1. First, we calculate the middle of the list by dividing the length of the list by 2. In this case, the middle element is at index 6 and its value is 11.\n\n2. Since 15 is greater than 11, we know that the number we\u0027re looking for is in the right half of the list, so we discard the left half and repeat the process with the right half of the list: [12, 15, 17, 18, 20].\n\n3. Next, we calculate the middle of the new list, which is at index 2 and its value is 17.\n\n4. Since 15 is less than 17, we know that the number we\u0027re looking for is in the left half of the list, so we discard the right half and repeat the process with the left half of the list: [12, 15].\n\n5. Now we have a list of two elements and 15 is the second element, so we return the index of 15 which is 1.\nSo the number 15 is found in the index 1.\n\nWhich topic, when to use algorithm efficiency or logarithmic time, would you like to know about next?",
+            "Here you go! Let\u0027s say we have a sorted list of integers: [1, 3, 4, 6, 8, 9, 10, 12, 15, 18, 19, 20] and we want to find the number 16.\n\n1. First, we calculate the middle of the list by dividing the length of the list by 2. In this case, the middle element is at index 6 and its value is 10.\n\n2. Since 16 is greater than 10, we know that the number we\u0027re looking for is in the right half of the list, so we discard the left half and repeat the process with the right half of the list: [12, 15, 18, 19, 20].\n\n3. Next, we calculate the middle of the new list, which is at index 2 and its value is 18.\n\n4. Since 16 is less than 18, we know that the number we\u0027re looking for is in the left half of the list, so we discard the right half and repeat the process with the left half of the list: [12, 15].\n\n5. Now we have a list of two elements and 15 is the second element, so we return the index of 15 which is 1.\n\n6. Since 15 is less than 16, we know that the number we\u0027re looking for is in the right half of the list, so we discard the left half and repeat the process with the right half of the list: [18].\n\n5. Now we have a list of one element [18]. Since 18 is not 16, we can conclude that 16 is not in our list.\n\nWhich topic, the binary search process or when to use binary search, would you like to know more about next?",
+            "Certainly! What if you were looking for the number 6 in this sorted list of numbers: [2, 4, 5, 7, 9, 11, 13]. \n\n1. Using binary search, you would check the middle number, 7, and eliminate the back half of the list including 7 since 6 is less than 7. \n\n2. Then, you would check if the middle element of the new list is the number you’re searching for. Since it is 4, you would eliminate the front half of the list including 4 since 6 is greater than 4. \n\n3. Lastly you would check the middle number, in this case there is only one number left. It is 5. \n\nSince 5 does not equal 6 and this is the last number in the list, we can can conclude that 6 is not in the list. \n\nWhich subject interests you next: polynomial time or see another example of binary search?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

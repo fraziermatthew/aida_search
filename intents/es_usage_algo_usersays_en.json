@@ -1,0 +1,182 @@
+[
+  {
+    "id": "0f258cc3-c9b6-41e1-97d9-4adf6b0c0421",
+    "data": [
+      {
+        "text": "when i should not use algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a18a1af-59f8-4a94-92ae-48e5732edea6",
+    "data": [
+      {
+        "text": "when I should not consider algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1eaf9559-5447-45c5-bf43-b23b938b2d86",
+    "data": [
+      {
+        "text": "when i should use algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60fd16b2-2e0e-4d03-8976-3cb139a108c9",
+    "data": [
+      {
+        "text": "when i should consider algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "366389e5-3fe2-4b08-9276-9fb0a6cf1d15",
+    "data": [
+      {
+        "text": "when not to consider algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb6d24d7-dbe0-4be4-8dd3-a8f2abc38aac",
+    "data": [
+      {
+        "text": "when to consider algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ddf55fa-3409-45d2-b1a2-44871a0fae15",
+    "data": [
+      {
+        "text": "not using algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f31d8461-701a-4455-95f0-56943fe12149",
+    "data": [
+      {
+        "text": "using algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c53a8a9-6b9d-4d71-8eba-ca2c0b3577fe",
+    "data": [
+      {
+        "text": "when not to use algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94b44598-b92f-4140-a6c7-a4fc98a14b90",
+    "data": [
+      {
+        "text": "when to use algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11311db3-d2eb-459c-a1da-777c05c40200",
+    "data": [
+      {
+        "text": "algorithm efficiency",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "892c8eec-a169-4719-b59d-8f534dd998bb",
+    "data": [
+      {
+        "text": "algorithm efficiency usage",
+        "meta": "@algorithmEfficiencyUsage",
+        "alias": "algorithmEfficiencyUsage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "f7c9b086-ddc7-4692-8e64-bd54cb466600",
+  "name": "algorithmEfficiency",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

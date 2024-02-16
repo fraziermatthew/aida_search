@@ -1,0 +1,57 @@
+{
+  "id": "7e8145c3-d2c9-4938-977b-8e863fceed65",
+  "name": "*es_cs_ex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "showmeanexample-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "95de24f4-3ea1-4540-8033-5cb127de2156",
+          "name": "example",
+          "required": false,
+          "dataType": "@example",
+          "value": "$example",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What would you like an example of? Binary search, linear search, or algorithm efficiency?",
+            "What do you want an example of? Linear search, binary search, or algorithm efficiency?",
+            "What would you like to see an example of? Algorithm efficiency, binary search, or linear search?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

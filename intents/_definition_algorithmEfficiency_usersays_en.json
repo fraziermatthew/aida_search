@@ -1,0 +1,113 @@
+[
+  {
+    "id": "a715a5a3-2046-4730-a565-c7c30d13089f",
+    "data": [
+      {
+        "text": "compare the number of steps that ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "userDefined": false
+      },
+      {
+        "text": " algorithms have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c1b49c0-924e-4350-9fe2-dc7cd21d2dd7",
+    "data": [
+      {
+        "text": "two",
+        "userDefined": false
+      },
+      {
+        "text": " algorithms do the same task but one takes less time than the other to run or finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5871a08-4592-4419-bdad-4bf06fb4299e",
+    "data": [
+      {
+        "text": "two",
+        "userDefined": false
+      },
+      {
+        "text": " algorithms do the same task but one takes longer than the other to run or finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "395a706f-fb56-431e-9895-db07471c8b39",
+    "data": [
+      {
+        "text": "one has less steps than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afaa4e46-1a88-4148-b61b-2d2e3bfe45f9",
+    "data": [
+      {
+        "text": "it means that one algorithm has more steps than another",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cf215ae-336d-4021-af68-0bf0bf4e0f19",
+    "data": [
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " has more steps than the other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44889985-3c08-4381-8e45-f3f4e5bd6b2c",
+    "data": [
+      {
+        "text": "it means that one algorithm has less steps than another",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "12ea14b6-5080-4ddc-a411-b9450014fd6d",
+  "parentId": "fc5f177c-9071-4eb2-b4c9-d7e23eea60c2",
+  "rootParentId": "0e3f8a31-deee-4ccc-86ec-8ef4edc603ba",
+  "name": "_definition_algorithmEfficiency",
+  "auto": true,
+  "contexts": [
+    "_realWorldApplication_algorithmEfficiency-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "03_personalReflection_algorithmEfficiency.03_personalReflection_algorithmEfficiency-custom._realWorldApplication_algorithmEfficiency-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Algorithm efficiency is a measure of how many steps are needed to complete an algorithm.\n\nWould you like to further explain?\n\nI can assist you in understanding the algorithm efficiency procedure, viewing an example, or determining when to consider algorithm efficiency. Which algorithm efficiency concept would you like to study next?",
+            "The relationship between the input size and the number of steps required to solve a problem is the efficiency of the algorithm used to solve the problem.\n\nDo you want me to explain this again?\n\nI can explain algorithm efficiency to you, give you an example, tell you when you should consider it and when you shouldn\u0027t, and go over its applications. What algorithm efficiency information would you like to learn next?",
+            "Counting the number of steps of an algorithm is an informal, but perfectly good way to determine the efficiency of an algorithm. The formal measurement of an algorithm requires a mathematical proof.\n\nWould you like a more thorough explanation?\n\nYou can ask me to provide you an explanation of algorithm efficiency, an example, advice on when to consider algorithm efficiency and when you shouldn\u0027t, as well as details on its uses. Which subject are you interested in studying?",
+            "You can compare the efficiency of two different algorithmic solutions to a problem by comparing the time it takes them to perform the same task.\n\nWould you like me to re-explain this?\n\nYou can ask me to provide you an explanation of algorithm efficiency, an illustration, and suggestions on when you should and shouldn\u0027t consider an algorithm\u0027s efficiency. Which subject would you like to learn more about next?",
+            "Algorithm efficiency refers to how well an algorithm can perform its task while using the minimum amount of resources such as time, memory, or processing power. It measures the speed and scalability of an algorithm, or how quickly it can handle increasing amounts of input data.\n\nWould you like a different explanation?\n\nYou can ask me to provide you a definition of algorithm efficiency, an illustration of how it works, as well as advice on when to consider it and when not to. Which topic are you most interested in learning more about?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

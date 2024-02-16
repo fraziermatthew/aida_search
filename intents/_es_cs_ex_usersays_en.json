@@ -1,0 +1,200 @@
+[
+  {
+    "id": "469867bd-9376-4100-9036-a0fc7c892ad6",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "want an example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": false
+      },
+      {
+        "text": " of binary search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79f86298-3077-44a5-96b8-17164383eab8",
+    "data": [
+      {
+        "text": "i want an ",
+        "userDefined": false
+      },
+      {
+        "text": "example of",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": false
+      },
+      {
+        "text": " linear search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "648ba3a4-5650-4b34-a0ca-dfd3be255ce0",
+    "data": [
+      {
+        "text": "give me an example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "536011bc-344c-4471-844e-1b3c557fd047",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "see an example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": true
+      },
+      {
+        "text": " of algorithm efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cfa66ce-6ede-47e1-8e4d-ae1e3c948ef1",
+    "data": [
+      {
+        "text": "show me an example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": false
+      },
+      {
+        "text": " of linear search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "955708e5-6e19-42b8-bb91-ca4d9fe9e6a4",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "give me an example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": true
+      },
+      {
+        "text": " of binary search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b6c4910-65f5-4ce3-8dbb-a267b2016426",
+    "data": [
+      {
+        "text": "algorithm efficiency ",
+        "userDefined": false
+      },
+      {
+        "text": "example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "409d00ad-9f85-4492-8cf7-90a617557b6a",
+    "data": [
+      {
+        "text": "linear search ",
+        "userDefined": false
+      },
+      {
+        "text": "example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c49eb03-b947-4db6-9fd1-9a8559bf9de9",
+    "data": [
+      {
+        "text": "binary search ",
+        "userDefined": false
+      },
+      {
+        "text": "example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49279c9c-3caf-4ea8-bfcf-3e5bc41f83a6",
+    "data": [
+      {
+        "text": "show me an example",
+        "meta": "@example",
+        "alias": "example",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

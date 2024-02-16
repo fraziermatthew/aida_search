@@ -1,0 +1,62 @@
+{
+  "id": "066bf2e7-3c06-45c3-a360-be58f6b50330",
+  "parentId": "87e09c8c-4b0f-40d1-931a-2a72efdb14dd",
+  "rootParentId": "87e09c8c-4b0f-40d1-931a-2a72efdb14dd",
+  "name": "getStudyNumber",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "feb8acb3-1398-4c43-80aa-adb9426fdae9",
+          "name": "number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I missed that. What is your study session number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you Participant $number 👋! \n\nWhat would you like to learn about binary search, linear search, or time complexity? I can teach about what it is, the process to use it, show you examples, or when to use or not to use each.",
+            "Thanks Participant $number 👋! \n\nHow can I help you learn about binary search, linear search, or algorithm efficiency? I can give you some examples, teach you what each is, explain the process, as well as offer advice on when to use it and when you shouldn\u0027t.",
+            "Thank you Participant $number 🙋‍♀️! \n\nWhat would you like to learn about binary search, algorithm efficiency, or linear search? I can demonstrate each, explain how it works, give you some examples, and advise you on when to use each one and when you shouldn\u0027t.",
+            "Thanks Participant $number 🙌! \n\nHow can I assist you in learning about binary search, algorithm efficiency, or linear search? I can explain what each one is, how to use it, give you examples, and tell you when to utilize them or not."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

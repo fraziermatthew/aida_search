@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2321aa97-aa8e-4dd4-9d00-5e35e0d30ebc",
+    "data": [
+      {
+        "text": "give me an example of algorithm efficiency",
+        "meta": "@algorithmEfficiencyExample",
+        "alias": "algorithmEfficiencyExample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1f7d64b-5a9b-4eeb-81d4-7c95cb9efeab",
+    "data": [
+      {
+        "text": "i want an illustration of algorithm efficiency",
+        "meta": "@algorithmEfficiencyExample",
+        "alias": "algorithmEfficiencyExample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "664dc6c9-e809-4864-a9bd-b8ceff98181d",
+    "data": [
+      {
+        "text": "show me an example of algorithm efficiency",
+        "meta": "@algorithmEfficiencyExample",
+        "alias": "algorithmEfficiencyExample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46f8d603-44cd-449f-bad1-e751ab5044a9",
+    "data": [
+      {
+        "text": "I want to see an illustration of how algorithm efficiency works",
+        "meta": "@algorithmEfficiencyExample",
+        "alias": "algorithmEfficiencyExample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "739c0ab7-578d-4b2a-9c1c-64302dcd7b38",
+    "data": [
+      {
+        "text": "algorithm efficiency",
+        "meta": "@algorithmEfficiencyExample",
+        "alias": "algorithmEfficiencyExample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5f87951-5402-4bcc-8f9e-e03ad608e424",
+    "data": [
+      {
+        "text": "algorithm efficiency example",
+        "meta": "@algorithmEfficiencyExample",
+        "alias": "algorithmEfficiencyExample",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

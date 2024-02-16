@@ -1,0 +1,59 @@
+{
+  "id": "3ce23ae3-2cfc-4ace-a4cc-9211acaa95db",
+  "name": "01_personalReflection_binarySearch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "01_personalReflection_binarySearch-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "af6da67e-8cb3-4799-8bd0-18c9b02583c0",
+          "name": "binarysearch",
+          "required": false,
+          "dataType": "@binarySearch",
+          "value": "$binarysearch",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It’s an algorithm for quickly finding items in a sorted list. How would you determine if a given number is in a list of sorted numbers?",
+            "Binary search is an efficient algorithm for a sorted list. How do you check whether a given number is present in a list of sorted numbers?",
+            "It is a way to find an item from a list in a simple, yet efficient technique. How can you tell if a specific number is included in a list of sorted numbers?",
+            "Binary search is an efficient algorithm for finding an item from a sorted list of items. How do you determine whether a particular number is present in a list of sorted numbers?",
+            "It\u0027s a method to search for an item that is simple and fast. In a list of sorted numbers, how can you tell if a particular number is present?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

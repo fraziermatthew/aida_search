@@ -1,0 +1,39 @@
+{
+  "id": "30cfa2a7-ce10-4219-824d-b8a682528f37",
+  "name": "@noMoreDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Choose a topic to learn about further: algorithm efficiency or linear search. Or are you all done with learning for today?",
+            "Would you be further interested in learning more about binary search or polynomial time? Or are you all done with learning for today?",
+            "Which of the following would you be interested in learning further about: linear time or algorithm efficiency? Or are you all done with learning for today?",
+            "Which subject interests you next: constant time or when to use binary search? Or are you all done with learning for today?",
+            "Which topic interests you more: when to use linear search or when to use algorithm efficiency? Or are you all done with learning for today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "f39b5fc2-6092-4c36-8f4e-154882858ce2",
+  "name": "02_personalReflection_linearSearch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "02_personalReflection_linearSearch-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b215265c-8fb6-4e1a-be7d-32a2c7729307",
+          "name": "linearsearch",
+          "required": false,
+          "dataType": "@linearSearch",
+          "value": "$linearsearch",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A linear search is the simplest approach employed to search for an element in a data set. How would you determine if a given word is in an unsorted list of words?",
+            "Linear search is the most basic search technique. How do you check whether a particular value is present in a list of unsorted words?",
+            "Linear search is a simple technique to find a value from a list. If you were given an unsorted list of words, how can you tell if a specific word is included in an unsorted list of words?",
+            "One of the most straightforward and elementary searches is linear search. How do you determine whether a particular word is present in a list of unsorted words?",
+            "A linear search is the simplest searching algorithm. In a list of random unsorted words, how can you tell if a particular word is present?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

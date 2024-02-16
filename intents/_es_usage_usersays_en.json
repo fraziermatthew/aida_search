@@ -1,0 +1,625 @@
+[
+  {
+    "id": "286a021b-ea95-4560-ab50-409211a7af1f",
+    "data": [
+      {
+        "text": "How is linear search ",
+        "userDefined": false
+      },
+      {
+        "text": "similar to",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da187576-0663-4b75-8aa6-54964d7a24f3",
+    "data": [
+      {
+        "text": "How is binary search ",
+        "userDefined": false
+      },
+      {
+        "text": "similar to",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b814aae6-7a07-49c7-a3b5-b06323efa5bb",
+    "data": [
+      {
+        "text": "How is linear search ",
+        "userDefined": false
+      },
+      {
+        "text": "different from",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a21e3342-1bfe-4aaa-ad05-8c3880851ee8",
+    "data": [
+      {
+        "text": "How is binary search ",
+        "userDefined": false
+      },
+      {
+        "text": "different from",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce50f47a-0917-49ef-a88d-a3ccfc601c83",
+    "data": [
+      {
+        "text": "How is binary search ",
+        "userDefined": false
+      },
+      {
+        "text": "similar to",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " linear search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1606e3d8-4455-466b-8d84-4c577718a6e3",
+    "data": [
+      {
+        "text": "How is binary search ",
+        "userDefined": false
+      },
+      {
+        "text": "different from",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " linear search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a28fc0c5-64ad-4a55-8cd1-6d49bf849769",
+    "data": [
+      {
+        "text": "What\u0027s the similarities between",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency  and a linear search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "730c0341-84de-4653-ab4c-1d50a5db2fe1",
+    "data": [
+      {
+        "text": "What\u0027s the similarities between",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " a binary search and algorithm efficiency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4929515-a826-4ff1-a5f6-7d42f7c74e6b",
+    "data": [
+      {
+        "text": "What\u0027s the difference between",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency  and a linear search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91debcf8-95cc-4be4-ba2c-907fc7e37080",
+    "data": [
+      {
+        "text": "What\u0027s the difference between",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " a binary search and algorithm efficiency?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f890ada-fb25-422a-9a31-91c4409e83ab",
+    "data": [
+      {
+        "text": "What\u0027s the similaries between",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " a binary search and a linear search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2c67001-90f3-423e-93a2-e26c4bf499ef",
+    "data": [
+      {
+        "text": "What\u0027s the difference between",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " a binary search and a linear search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ecc31f7-a4d9-4072-bd38-f0f04d9c7c21",
+    "data": [
+      {
+        "text": "when do I choose",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " linear search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5490003-263b-48ae-adc2-879d6f9b5e7b",
+    "data": [
+      {
+        "text": "When should I choose",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " a binary search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "134c7911-e242-4216-b775-8103a939e1a8",
+    "data": [
+      {
+        "text": "when should I take into account",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a3d053-2236-4125-849c-c1ccee3469bc",
+    "data": [
+      {
+        "text": "when should I account for",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30b402ac-cfd3-4f35-95ba-bc53a12ad6a1",
+    "data": [
+      {
+        "text": "when should I consider",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " linear search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b794b1bc-c2c5-46fc-b840-d847cad9185e",
+    "data": [
+      {
+        "text": "when should I consider",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " binary search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6da7629-86da-4cc0-b3eb-457675798f65",
+    "data": [
+      {
+        "text": "when do I consider",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8193aa7a-5584-4423-9566-a00faa7d278c",
+    "data": [
+      {
+        "text": "how can I use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " algorithm efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9121c00c-7181-4951-bcda-a6eb9c96d96c",
+    "data": [
+      {
+        "text": "when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " binary search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02192d5c-dca0-4a60-b88e-3ea320b80610",
+    "data": [
+      {
+        "text": "when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " algorithm efficiency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe62c827-a0ed-4d3c-a2b7-13650d018ca1",
+    "data": [
+      {
+        "text": "when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": false
+      },
+      {
+        "text": " linear search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27fa9fdb-834a-4e97-8a3d-7905651735ea",
+    "data": [
+      {
+        "text": "when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " linear search \u0026 ",
+        "userDefined": false
+      },
+      {
+        "text": "when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " binary search?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "003d60bb-ab53-426d-a61d-95b8a3455c71",
+    "data": [
+      {
+        "text": "when do I not use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0f6051c-ff33-4cb5-b697-c6d1f4a01a7d",
+    "data": [
+      {
+        "text": "when do I not use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "binary search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97fb811a-672e-42fd-baad-af2f35895160",
+    "data": [
+      {
+        "text": "when do I use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37fcd9c1-39f9-49d5-840b-83c598d4accb",
+    "data": [
+      {
+        "text": "when do I use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      },
+      {
+        "text": " binary search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef1f5818-3054-475a-809d-f54c11f892bd",
+    "data": [
+      {
+        "text": "usage",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1abe224-6a53-4369-a269-a4a36fd09d6f",
+    "data": [
+      {
+        "text": "when not to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76c87d67-171b-42e9-8656-1ebc82f66b89",
+    "data": [
+      {
+        "text": "when to use",
+        "meta": "@usage",
+        "alias": "usage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

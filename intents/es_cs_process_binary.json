@@ -1,0 +1,60 @@
+{
+  "id": "826009d4-3af0-46ed-944f-3f5826f9833b",
+  "parentId": "9a403c46-3a9f-48ce-9bf3-d3517de5cf19",
+  "rootParentId": "9a403c46-3a9f-48ce-9bf3-d3517de5cf19",
+  "name": "es_cs_process_binary",
+  "auto": true,
+  "contexts": [
+    "whatistheprocess-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "whatistheprocess.whatistheprocess-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1ac132ed-8bfa-4c8c-865b-df55ecb5119e",
+          "name": "binarysearchprocess",
+          "required": false,
+          "dataType": "@binarySearchProcess",
+          "value": "$binarysearchprocess",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "First in Step #1, find the middle element in the list. Compare that element to the given value you’re searching for. If the middle element is less than the given value, remove all of the elements to the left (including the middle number). If the middle element is more than the given value, remove all of the elements to the right (including the middle number). Next in Step #2, find the middle element in this shorter list. Follow the instructions in Step #1 for comparing elements. Again, find the middle number in this new shorter list. Continue this process until you have found the value or there are no more elements to compare to the value you’re searching for. \n\nWhich topic, linear search or polynomial time, would you like to know about next?",
+            "Find the middle element in the list first in Step #1. Compare that element to the key value. Remove all the components to the left if the middle element is less than the specified value (including the middle number). Remove all of the components to the right if the centre element exceeds the specified value (including the middle number). Find the middle item in this reduced list in Step #2 after that. Refer to Step #1 for details on how to compare the elements. Find the center number once more in this new, smaller list. If there are still elements you can compare to the value you\u0027re looking for, keep going through this process until you find it.\n\nWhich subject interests you more, learning about what is linear search or algorithm efficiency?",
+            "Begin with the mid element of the whole list as a search key. If the value of the search key is equal to the item, then you\u0027ve found the item. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise, narrow it to the upper half. Repeatedly check from the second point until the value is found or the interval is empty.\n\nWhich topic interests you more: the linear search process or when to use binary search?",
+            "Start your search using the middle member in the entire list. You\u0027ve located the item if the value of the search key matches that of the object. Narrow the interval to the lower half if the search key\u0027s value is smaller than the item in the interval\u0027s midpoint. If not, restrict it to the upper half. Check the interval from the second point again until the value is discovered or it is empty.\n\nWhich subject interests you next: polynomial time or when to consider algorithm efficiency?",
+            "Here\u0027s the basic process:\n\n1. Start by finding the middle element of the list. Compare the target number to the middle element.\n\n2. If the target number is equal to the middle element, then you\u0027ve found the number and you can return its index.\n\n3. If the target number is less than the middle element, that means the number you\u0027re looking for is located in the left half of the list. Repeat the process on the left half of the list, narrowing the search to the left half of the list.\n\n4. If the target number is greater than the middle element, that means the number you\u0027re looking for is located in the right half of the list. Repeat the process on the right half of the list, narrowing the search to the right half of the list.\n\n5. Repeat this process until the number is found or you\u0027ve narrowed the search down to an empty list, in which case the number is not in the list.\n\nThat\u0027s the process. Which subject interests you more, binary search or algorithm efficiency?",
+            "Here\u0027s a more detailed explanation of the binary search algorithm:\n\n1. Start by determining the middle element of the list by calculating the floor value of the length of the list divided by 2.\n\n2. Compare the middle element with the item you are searching for.\nIf the middle element is equal to the item, you have found it and the search can end.\n\n3. If the middle element is less than the item, then the item you are searching for must be in the right half of the list. You can then repeat the process with the right half of the list, effectively discarding the left half.\n\n4. If the middle element is greater than the item, then the item you are searching for must be in the left half of the list. Repeat the process with the left half of the list, discarding the right half.\n\n5. Repeat steps 1-5 until the item is found or the list has been narrowed down to nothing.\n\nWhich topic, logarithmic time or the algorithm efficiency process, would you like to know more about next?",
+            "The process of binary search involves the following steps:\n\n1. Determine the middle element of the list by computing the floor of the average of the first and last indices of the list.\n\n2. Compare the target element to the middle element. If the target element is equal to the middle element, then the search is complete and the index of the middle element is returned.\n\n3. If the target element is less than the middle element, repeat the search on the sublist of elements to the left of the middle element. This sublist consists of the elements with indices from the first index to one less than the middle index.\n\n4. If the target element is greater than the middle element, repeat the search on the sublist of elements to the right of the middle element. This sublist consists of the elements with indices from one more than the middle index to the last index.\n\n5. Repeat steps 1-4 until the target element is found or the search space has been reduced to an empty list, in which case the target element is not present in the list.\n\nWhich subject interests you more, polynomial time or linear search?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

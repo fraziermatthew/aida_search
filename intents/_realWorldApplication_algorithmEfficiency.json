@@ -1,0 +1,48 @@
+{
+  "id": "fc5f177c-9071-4eb2-b4c9-d7e23eea60c2",
+  "parentId": "0e3f8a31-deee-4ccc-86ec-8ef4edc603ba",
+  "rootParentId": "0e3f8a31-deee-4ccc-86ec-8ef4edc603ba",
+  "name": "_realWorldApplication_algorithmEfficiency",
+  "auto": true,
+  "contexts": [
+    "03_personalReflection_algorithmEfficiency-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "03_personalReflection_algorithmEfficiency.03_personalReflection_algorithmEfficiency-custom",
+      "affectedContexts": [
+        {
+          "name": "_realWorldApplication_algorithmEfficiency-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We design an algorithm to get a solution of a given problem. A problem can be solved in more than one ways. There\u0027s more than one way to make a bed. \n\nWhat does it mean to compare the algorithms and conclude that one is better than the other?",
+            "An algorithm is like a recipe that tells a computer what to do. Just like a recipe can tell you how to bake a cake, an algorithm can tell a computer how to solve a problem or perform a task.\n\nAlgorithm efficiency is all about how well that recipe works. Just like how some recipes might take longer to make or require more ingredients, some algorithms might take longer to run or need more computer resources, like memory or processing power. \n\nWhat does it mean to say one algorithm is “more efficient” than another?",
+            "Think of an algorithm like a set of instructions that tells a computer how to solve a problem. Just like how you might follow a set of instructions to build a Lego set, an algorithm is a set of instructions that a computer follows to solve a problem.\n\nNow, imagine that you have two sets of instructions for building the same Lego set. One set of instructions is very clear and easy to follow, with simple steps that are easy to understand. The other set of instructions is very confusing, with long and complicated steps that are hard to follow.\n\nWhy is one algorithm faster than another, exactly?",
+            "An algorithm is like a set of instructions that a computer follows to solve a problem. It\u0027s like a recipe for the computer, but instead of making cookies, it\u0027s doing something like sorting a list of numbers or finding the shortest route between two cities.\n\nNow, imagine that you\u0027re trying to bake some cookies, and you have two recipes to choose from. One recipe is very simple and easy to follow, with just a few steps and common ingredients like sugar and flour. The other recipe is very complicated, with lots of steps and unusual ingredients like cardamom and rose water.\n\nWhat does it mean to say one algorithm is faster than another algorithm?",
+            "An algorithm is a set of instructions. Like following your GPS system for directions when driving, there could be several different ways to arrive at your destination. Each alternate route in the GPS system could have more streets to turn at than others which will effect the overall estimated time of arrival (ETA) to your location. What does it mean to compare the algorithms and determine that one is \"more efficient\" than the other?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

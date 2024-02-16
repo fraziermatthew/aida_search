@@ -1,0 +1,457 @@
+[
+  {
+    "id": "4b4fa752-0a25-4699-84ff-d9a42839be32",
+    "data": [
+      {
+        "text": "Sort the list, then use ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "209cc670-dc65-48ee-a3fe-cd6c4a751c6e",
+    "data": [
+      {
+        "text": "just go through the list and find it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4fe1271-8158-4dc4-b26d-6b6fa471ac31",
+    "data": [
+      {
+        "text": "what do you mean by unsorted list of words",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e245dddc-2154-44b6-bedb-900ef5549069",
+    "data": [
+      {
+        "text": "by searching for it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f55a4041-fb69-4c5c-acb5-4813d4ae60c3",
+    "data": [
+      {
+        "text": "look it up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61ba7298-6133-4cc9-87fe-4282bad6f9e5",
+    "data": [
+      {
+        "text": "search for it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8777d40a-3187-49f3-b5e6-0f41259db4c5",
+    "data": [
+      {
+        "text": "step through the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a78d3e4-187c-45b5-a26d-bcc448cca7bb",
+    "data": [
+      {
+        "text": "look for the word",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da0b84fe-def2-4dec-9735-6f7a93bc723a",
+    "data": [
+      {
+        "text": "search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6080e7c8-a4b7-4b51-9847-84a477862299",
+    "data": [
+      {
+        "text": "check each word in a sequence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c777bd4-bde9-4f91-8022-e03d53c0835a",
+    "data": [
+      {
+        "text": "idk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8c93024-8a09-4488-ba44-2e4c88f9032c",
+    "data": [
+      {
+        "text": "I\u0027d look through the whole list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab7ea30c-0217-4549-88ff-6975e3db2c91",
+    "data": [
+      {
+        "text": "I don\u0027t know really",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97cc5e95-6058-4ca3-984b-09b75d639dd0",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30335002-e38a-42b7-8292-db03d61bb3c2",
+    "data": [
+      {
+        "text": "I\u0027d look for the word",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddfa5b91-6ad2-42ed-9bbe-8e7d393fdd64",
+    "data": [
+      {
+        "text": "I guess I\u0027d look through the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42a89aec-9d75-4880-b2d3-b1695803545c",
+    "data": [
+      {
+        "text": "I think I\u0027d look through the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c044928-dc86-44e6-a43f-fee95b566465",
+    "data": [
+      {
+        "text": "I\u0027d scan the list until I found it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c47a6d4-8cb4-4b92-b08c-2968dc177441",
+    "data": [
+      {
+        "text": "I\u0027d go through ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " of the elements on the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f23bcc9-646e-42d4-bffe-ba9939cbfb61",
+    "data": [
+      {
+        "text": "I\u0027d use ",
+        "userDefined": false
+      },
+      {
+        "text": "linear search",
+        "meta": "@linearSearch",
+        "alias": "linearsearch",
+        "userDefined": false
+      },
+      {
+        "text": " to find the word",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9037f76e-c951-420e-ae83-3198167405ea",
+    "data": [
+      {
+        "text": "I\u0027d check each word of the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4936a952-55fc-4bd3-8c71-ad704d57e921",
+    "data": [
+      {
+        "text": "I guess I\u0027d look for the word that I want",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f35fe7bc-13f2-4969-ba8b-d1dcf745fb9c",
+    "data": [
+      {
+        "text": "I don\u0027t know how I\u0027d do that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79549a4a-2111-4eaa-98ae-d7ee2427b8dd",
+    "data": [
+      {
+        "text": "I would search through each word of the list until I found the word that I was looking for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "052ec31c-5943-46d4-811b-ef09132f2c4a",
+    "data": [
+      {
+        "text": "Until I located the desired word, I would go through each word on the list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d26f542-bfa6-4ccf-ba0e-d597f27cdfce",
+    "data": [
+      {
+        "text": "I\u0027d check each word ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " until I found the ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " that I wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcf70adb-0ea9-4c8c-b24c-9eeaf74e9388",
+    "data": [
+      {
+        "text": "I\u0027d guess a word",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9beef801-8d67-40bd-9467-685a8737d118",
+    "data": [
+      {
+        "text": "I\u0027d use ",
+        "userDefined": false
+      },
+      {
+        "text": "binary search",
+        "meta": "@binarySearch",
+        "alias": "binarysearch",
+        "userDefined": false
+      },
+      {
+        "text": " to find the word",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a52e10f-5f9e-4911-b173-fc6aad708d15",
+    "data": [
+      {
+        "text": "I would go through each word on the list until I found the ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      },
+      {
+        "text": " I wanted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
